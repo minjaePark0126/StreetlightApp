@@ -1,0 +1,184 @@
+.Menu,
+.Last,
+.Starts {
+  width: 1080px;
+  height: 1920px;
+  text-align: center;
+  float: left;
+  background: rgb(255, 255, 255);
+  border: solid 1px black;
+}
+
+/* CSS : Main.js */
+.App {
+  text-align: center;
+}
+.blue-nav {
+  background-color: #6bb2f1;
+  width: 1080px;
+  height: 1720px;
+  border: 1px solid black;
+}
+.blue-nav {
+  position: absolute;
+  padding-top: 200px;
+  margin: 0 auto;
+  color: white;
+  font-size: 270px;
+  text-align: center;
+}
+.find {
+  font-size: 210px;
+}
+#mapimg {
+  position: absolute;
+  height: 400px;
+  top: 1000px;
+  left: 340px;
+}
+#roading {
+  position: absolute;
+  height: 200px;
+  bottom: 150px;
+  left: 440px;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* CSS: Header */
+.Header {
+  position: absolute;
+  top: 0px;
+  left: 50px;
+  width: 1080px;
+  z-index: 10;
+}
+
+.AP {
+  background-color: lightgray;
+  float: left;
+  width: 900px;
+  color: black;
+  font-size: 50px;
+  font-weight: 200px;
+  margin-top: 30px;
+  text-align: left;
+}
+.AP1 {
+  position: absolute;
+  border: solid 8px black;
+  border-color: black;
+  width: 900px;
+  height: 120px;
+  background-color: white;
+  display: block;
+  color: black;
+  font-size: 50px;
+  text-align: left;
+  margin-top: 20px;
+  margin-right: 100px;
+}
+
+.AP4 {
+  width: 1000px;
+  height: 1000px;
+  top: 200px;
+}
+.Exit {
+  position: relative;
+  margin-left: 510px;
+  margin-top: 55px;
+  height: 50px;
+}
+.Home {
+  position: absolute;
+  right: 70px;
+  top: 10px;
+  height: 100px;
+}
+.Search {
+  position: relative;
+  right: -15px;
+  top: 20px;
+  height: 85px;
+}
+.Share {
+  position: absolute;
+  right: 75px;
+  top: 135px;
+  height: 85px;
+}
+
+/* CSS: Bottom.js */
+.Bottom {
+  position: relative;
+  bottom: 280px;
+  width: 1080px;
+  /* height: 200px; */
+  z-index: 10;
+}
+
+#btnChange {
+  position: absolute;
+  left: 25px;
+  height: 180px;
+}
+#me {
+  position: absolute;
+  left: 50px;
+  bottom: 270px;
+  height: 100px;
+}
+#star {
+  position: absolute;
+  left: 50px;
+  bottom: 400px;
+  height: 100px;
+}
+.Departure {
+  border: solid 8px black;
+  border-color: black;
+  width: 800px;
+  height: 80px;
+  background-color: white;
+  display: block;
+  color: black;
+  font-size: 50px;
+  text-align: left;
+}
+
+#DepExit {
+  position: absolute;
+  right: 170px;
+  bottom: 120px;
+  height: 40px;
+}
+
+.Arrival {
+  border: solid 8px black;
+  border-color: black;
+  width: 800px;
+  height: 80px;
+  background-color: white;
+  display: block;
+  color: black;
+  font-size: 50px;
+  text-align: left;
+}
+
+#ArrExit {
+  position: absolute;
+  right: 170px;
+  bottom: 20px;
+  height: 40px;
+}
+
+#btnFind {
+  position: absolute;
+  right: 20px;
+  bottom: 40px;
+  height: 100px;
+}
