@@ -9,6 +9,12 @@ import Map from "./pages/Map";
 import Last from "./pages/Last";
 import Starts from "./pages/Starts";
 import RoadMap from "./pages/RoadMap";
+import Arrivegg from "./pages/Arrivegg";
+import Startgg from "./pages/Startgg";
+import Twogg from "./pages/Twogg";
+import Tworoad from "./pages/Tworoad";
+import Find from "./pages/Find";
+
 
 function App() {
   return (
@@ -21,6 +27,11 @@ function App() {
           <Route path="/starts" component={Starts} />
           <Route path="/roadmap" component={RoadMap} />
           <Route path="/" exact component={Main} />
+          <Route path="/arrivegg" component={Arrivegg} />
+          <Route path="/startgg" component={Startgg} />
+          <Route path="/twogg" component={Twogg} />
+          <Route path="/tworoad" component={Tworoad} />
+          <Route path="/find" component={Find} />
         </Switch>
       </Router>
     </>
