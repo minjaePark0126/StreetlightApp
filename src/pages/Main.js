@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 function Main() {
   return (
     <div className="main">
-      <Link to={"/Menu"}>
+      <Link to={"/Map"}>
         <div className="blue-nav">
           안심
           <br />

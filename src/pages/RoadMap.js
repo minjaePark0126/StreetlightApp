@@ -5,7 +5,7 @@ import styled from "styled-components";
 const Time = styled.div`
   img {
     position: absolute;
-    top: 1130px;
+    top: 1400px;
     left: 750px;
     z-index: 10;
     width: 300px;

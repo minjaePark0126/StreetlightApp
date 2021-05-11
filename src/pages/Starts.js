@@ -61,7 +61,7 @@ function Starts() {
   return (
     <div className="Starts">
       <div style={style1}>즐겨찾기 경로</div>
-      <Link to={"/Menu"}>
+      <Link to={"/Map"}>
         <img src={"img/home.png"} style={imgfile3} />
       </Link>
       <div style={style2}>-</div>

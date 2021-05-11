@@ -1,4 +1,3 @@
-.Menu,
 .Last,
 .Starts,
 .Twogg,
@@ -12,28 +11,27 @@
   background: rgb(255, 255, 255);
   border: solid 1px black;
 }
-.zoomcontrol
-{
-  position:absolute;
+.zoomcontrol {
+  position: absolute;
   top: 950px;
-  width:100px;
-  height:200px;
-  z-index:1;
-  background-color:#ffffff;
-  left:860px;
+  width: 100px;
+  height: 200px;
+  z-index: 1;
+  background-color: #ffffff;
+  left: 860px;
 }
-.zoomcontrol span{
-  display:block;
-  width:100px;
-  height:100px;
-  text-align:center;
-  cursor:pointer;
+.zoomcontrol span {
+  display: block;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  cursor: pointer;
 }
-.zoomcontrol span img{
-  width:60px;
-  height:60px;
-  padding:25px 0;
-  border:none;
+.zoomcontrol span img {
+  width: 60px;
+  height: 60px;
+  padding: 25px 0;
+  border: none;
 }
 /* CSS : Main.js */
 .App {
@@ -74,13 +72,13 @@ a {
   text-decoration: none;
 }
 /* CSS: Find */
-.Find{
+.Find {
   position: absolute;
   top: 0px;
   width: 1080px;
   z-index: 10;
 }
-#back{
+#back {
   position: absolute;
   top: 74px;
   margin-left: 50px;
@@ -89,8 +87,7 @@ a {
   background-color: #ffffff;
   display: block;
 }
-.Spacefind
-{
+.Spacefind {
   position: absolute;
   margin-top: 60px;
   margin-left: 200px;
@@ -103,14 +100,12 @@ a {
   font-size: 50px;
   text-align: left;
 }
-#bean{
+#bean {
   position: relative;
-  height: 1600px;
-  width: 2200px;
-  bottom: 750px;
-  right: 960px;
+  bottom: 0;
+  right: 370px;
 }
-.Rs{
+.Rs {
   position: absolute;
   margin-top: 250px;
   width: 1016px;
@@ -118,13 +113,11 @@ a {
   background-color: rgb(241, 241, 241);
   border: solid 2px black;
 }
-.Rs{
- 
+.Rs {
   padding-left: 60px;
   padding-top: 60px;
 }
-.Rsss
-{
+.Rsss {
   position: absolute;
   margin-top: 330px;
   margin-left: 93px;
@@ -132,7 +125,7 @@ a {
   font-size: 50px;
   text-align: left;
 }
-.Rss{
+.Rss {
   position: absolute;
   margin-top: 400px;
   width: 1076px;
@@ -141,17 +134,14 @@ a {
   border: solid 2px black;
 }
 
-
-
 /* CSS: Startgg */
-.Startgg{
+.Startgg {
   position: absolute;
   top: 0px;
   width: 1080px;
   z-index: 10;
 }
-.Startfind
-{
+.Startfind {
   position: absolute;
   margin-top: 60px;
   margin-left: 60px;
@@ -164,14 +154,7 @@ a {
   font-size: 50px;
   text-align: left;
 }
-#bean{
-  position: relative;
-  height: 1600px;
-  width: 2200px;
-  bottom: 750px;
-  right: 960px;
-}
-.Rs{
+.Rs {
   position: absolute;
   margin-top: 250px;
   width: 1016px;
@@ -179,13 +162,11 @@ a {
   background-color: rgb(241, 241, 241);
   border: solid 2px black;
 }
-.Rs{
- 
+.Rs {
   padding-left: 60px;
   padding-top: 60px;
 }
-.Rsss
-{
+.Rsss {
   position: absolute;
   margin-top: 330px;
   margin-left: 93px;
@@ -193,7 +174,7 @@ a {
   font-size: 50px;
   text-align: left;
 }
-.Rss{
+.Rss {
   position: absolute;
   margin-top: 400px;
   width: 1076px;
@@ -202,14 +183,13 @@ a {
   border: solid 2px black;
 }
 /* CSS: Arrivegg */
-.Arrivegg{
+.Arrivegg {
   position: absolute;
   top: 0px;
   width: 1080px;
   z-index: 10;
 }
-.Arrivefind
-{
+.Arrivefind {
   position: absolute;
   margin-top: 60px;
   margin-left: 60px;
@@ -222,14 +202,7 @@ a {
   font-size: 50px;
   text-align: left;
 }
-#bean{
-  position: relative;
-  height: 1600px;
-  width: 2200px;
-  bottom: 750px;
-  right: 960px;
-}
-.Rs{
+.Rs {
   position: absolute;
   margin-top: 250px;
   width: 1016px;
@@ -237,13 +210,11 @@ a {
   background-color: rgb(241, 241, 241);
   border: solid 2px black;
 }
-.Rs{
- 
+.Rs {
   padding-left: 60px;
   padding-top: 60px;
 }
-.Rsss
-{
+.Rsss {
   position: absolute;
   margin-top: 330px;
   margin-left: 93px;
@@ -251,7 +222,7 @@ a {
   font-size: 50px;
   text-align: left;
 }
-.Rss{
+.Rss {
   position: absolute;
   margin-top: 400px;
   width: 1076px;
@@ -298,14 +269,14 @@ a {
   border-color: black;
   height: 120px;
   width: 120px;
-  background-color: #7E95EF;
+  background-color: #7e95ef;
   display: block;
   color: rgb(255, 255, 255);
   font-size: 30px;
   text-align: center;
   margin-top: 20px;
   margin-left: 850px;
-  cursor:pointer;
+  cursor: pointer;
 }
 .AP4 {
   width: 1000px;
@@ -343,7 +314,6 @@ a {
   left: 80px;
   width: 80px;
   z-index: 10;
-  
 }
 #plus {
   position: absolute;
@@ -373,7 +343,6 @@ a {
   width: 80px;
   margin-top: 1800px;
   background-color: #ffffff;
-  
 }
 #star {
   position: absolute;
@@ -430,18 +399,11 @@ a {
 
 #btnFind {
   position: absolute;
-  right:35px;
+  right: 35px;
   top: 155px;
   height: 70px;
 }
-#bean{
-  position: relative;
-  height: 1600px;
-  width: 2200px;
-  bottom: 750px;
-  right: 960px;
-}
-.Rs2{
+.Rs2 {
   position: absolute;
   margin-top: 50px;
   width: 1016px;
@@ -449,13 +411,11 @@ a {
   background-color: rgb(241, 241, 241);
   border: solid 2px black;
 }
-.Rs2{
- 
+.Rs2 {
   padding-left: 60px;
   padding-top: 60px;
 }
-.Rsss2
-{
+.Rsss2 {
   position: absolute;
   margin-top: 130px;
   margin-left: 93px;
@@ -463,7 +423,7 @@ a {
   font-size: 50px;
   text-align: left;
 }
-.Rss2{
+.Rss2 {
   position: absolute;
   margin-top: 200px;
   width: 1076px;
