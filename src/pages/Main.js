@@ -13,7 +13,7 @@ function Main() {
             <br />
           </div>
           <img id="mapimg" src={"/img/map.png"} alt="지도" />
-          <img id="roading" src={"/img/roading.png"} />
+          <img id="loading" src={"/img/loading.png"} />
         </div>
       </Link>
     </div>
