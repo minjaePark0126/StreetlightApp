@@ -9,7 +9,6 @@ import RoadMap from "./pages/RoadMap";
 import Arrivegg from "./pages/Arrivegg";
 import Startgg from "./pages/Startgg";
 import Twogg from "./pages/Twogg";
-import Tworoad from "./pages/Tworoad";
 import Find from "./pages/Find";
 
 function App() {
@@ -23,7 +22,6 @@ function App() {
           <Route path="/arrivegg" component={Arrivegg} />
           <Route path="/startgg" exact component={Startgg} />
           <Route path="/twogg" component={Twogg} />
-          <Route path="/tworoad" component={Tworoad} />
           <Route path="/find" component={Find} />
           <Route path="/" exact component={Main} />
         </Switch>

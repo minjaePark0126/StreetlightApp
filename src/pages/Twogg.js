@@ -18,7 +18,6 @@ function Twogg() {
         </Link>
       </center>
       <Link to={"/RoadMap"}>
-        {/* 원래는 /Tworoad 였음. 임시로 RoadMap 넣어둠 */}
         <img id="btnFind" src={"/img/rightarrow.png"}></img>
       </Link>
       <div className="Rs2">

@@ -1,6 +1,7 @@
-// (메뉴)길찾기 - (버튼)길찾기
-import Map from "./Map.js";
+// (버튼)길찾기-(버튼)도착지 입력 옆에 화살표 눌렀을 때 화면
+import KakaoMap from "../components/KakaoMap.js";
 import styled from "styled-components";
+import Bottom from "../components/Bottom.js";
 
 const Time = styled.div`
   img {
@@ -18,7 +19,8 @@ function RoadMap() {
       <Time>
         <img src={"img/time.png"}></img>
       </Time>
-      <Map />
+      <Bottom />
+      <KakaoMap />
     </>
   );
 }
