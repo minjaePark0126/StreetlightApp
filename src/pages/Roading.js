@@ -1,4 +1,4 @@
-// (버튼)길찾기-(버튼)도착지 입력 옆에 화살표 눌렀을 때 화면
+//로드중 화면 (로드 선택 후 안내화면)
 import KakaoMap from "../components/KakaoMap.js";
 import styled from "styled-components";
 import Side from "../components/Side.js";
@@ -14,11 +14,12 @@ const Time = styled.div`
   }
 `;
 
-function RoadMap() {
+function Roading() {
   return (
     
     <>
-      <div className="Road">최단거리로드<br/>17분<hr></hr>보안등로드<br/>21분</div>
+      <div className="Roading">최단거리 로드중</div>
+      <div className="ETA">도착예정시간:17:08</div>
       <Bottom />
       <Side />
       <KakaoMap />
@@ -26,4 +27,5 @@ function RoadMap() {
   );
 }
 
-export default RoadMap;
+export default Roading;
+
