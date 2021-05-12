@@ -59,7 +59,7 @@ function Starts() {
     backgroundColor: "lightgray",
   };
   return (
-    <div className="Starts">
+    <>
       <div style={style1}>즐겨찾기 경로</div>
       <Link to={"/Map"}>
         <img src={"img/home.png"} style={imgfile3} />
@@ -78,7 +78,7 @@ function Starts() {
       <div style={style4}>→경기도 머시기</div>
       <img src={"img/arrow.png"} style={imgfile} />
       <img src={"img/x.png"} style={imgfile2} />
-    </div>
+    </>
   );
 }
 

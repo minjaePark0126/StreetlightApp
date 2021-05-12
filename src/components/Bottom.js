@@ -6,10 +6,10 @@ function Bottom() {
       <center>
         <img id="me" src={"/img/me.png"} />
         <Link to={"/Starts"}>
-        <img id="star" src="/img/star.png" />
+          <img id="star" src="/img/star.png" />
         </Link>
       </center>
-      </div>
+    </div>
   );
 }
 

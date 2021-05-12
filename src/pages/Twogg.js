@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 function Twogg() {
   return (
-    <div className="Twogg">
+    <>
       <img id="btnChange" src={"/img/btnChange.png"}></img>
       <center>
         <Link to={"/Startgg"}>
@@ -25,7 +25,7 @@ function Twogg() {
       </div>
       <div className="Rsss2">최근 경로</div>
       <div className="Rss2"></div>
-    </div>
+    </>
   );
 }
 
