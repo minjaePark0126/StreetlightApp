@@ -1,0 +1,5432 @@
+[
+  {
+    "address": "경기도 부천시 괴안동 100-28(역곡3동-205)",
+    "latitude": 37.47998253,
+    "longitude": 126.8111365
+  },
+  {
+    "address": "경기도 부천시 괴안동 100-58",
+    "latitude": 37.47985644,
+    "longitude": 126.8111685
+  },
+  {
+    "address": "경기도 부천시 괴안동 100-64",
+    "latitude": 37.47917964,
+    "longitude": 126.8116451
+  },
+  {
+    "address": "경기도 부천시 괴안동 102 (102-18 옆)",
+    "latitude": 37.47920936,
+    "longitude": 126.8122058
+  },
+  {
+    "address": "경기도 부천시 괴안동 102-17",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 102-24",
+    "latitude": 37.47964391,
+    "longitude": 126.8135071
+  },
+  {
+    "address": "경기도 부천시 괴안동 103번지",
+    "latitude": 37.48009557,
+    "longitude": 126.8119639
+  },
+  {
+    "address": "경기도 부천시 괴안동 106-1",
+    "latitude": 37.48052728,
+    "longitude": 126.8114789
+  },
+  {
+    "address": "경기도 부천시 괴안동 107-8",
+    "latitude": 37.48253122,
+    "longitude": 126.8115372
+  },
+  {
+    "address": "경기도 부천시 괴안동 108-1 괴안동사무소 앞",
+    "latitude": 37.48258316,
+    "longitude": 126.8102164
+  },
+  {
+    "address": "경기도 부천시 괴안동 110-10",
+    "latitude": 37.48295648,
+    "longitude": 126.8092839
+  },
+  {
+    "address": "경기도 부천시 괴안동 110-14 (앞)",
+    "latitude": 37.48245133,
+    "longitude": 126.8089233
+  },
+  {
+    "address": "경기도 부천시 괴안동 110-16 앞",
+    "latitude": 37.48229216,
+    "longitude": 126.8085574
+  },
+  {
+    "address": "경기도 부천시 괴안동 110-17 (역곡성당 맞은펴)",
+    "latitude": 37.48214747,
+    "longitude": 126.8082276
+  },
+  {
+    "address": "경기도 부천시 괴안동 110-21",
+    "latitude": 37.48196635,
+    "longitude": 126.8076628
+  },
+  {
+    "address": "경기도 부천시 괴안동 110-25 앞",
+    "latitude": 37.48253123,
+    "longitude": 126.8092985
+  },
+  {
+    "address": "경기도 부천시 괴안동 110-31",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 111-10",
+    "latitude": 37.48322002,
+    "longitude": 126.8073385
+  },
+  {
+    "address": "경기도 부천시 괴안동 111-14",
+    "latitude": 37.48360273,
+    "longitude": 126.8077581
+  },
+  {
+    "address": "경기도 부천시 괴안동 111-19",
+    "latitude": 37.48334318,
+    "longitude": 126.8077181
+  },
+  {
+    "address": "경기도 부천시 괴안동 111-28",
+    "latitude": 37.48374053,
+    "longitude": 126.8082778
+  },
+  {
+    "address": "경기도 부천시 괴안동 111-31",
+    "latitude": 37.48360392,
+    "longitude": 126.8084908
+  },
+  {
+    "address": "경기도 부천시 괴안동 111-36",
+    "latitude": 37.48390701,
+    "longitude": 126.8087071
+  },
+  {
+    "address": "경기도 부천시 괴안동 111-37",
+    "latitude": 37.48376301,
+    "longitude": 126.8088069
+  },
+  {
+    "address": "경기도 부천시 괴안동 111-48",
+    "latitude": 37.4832897,
+    "longitude": 126.8080755
+  },
+  {
+    "address": "경기도 부천시 괴안동 111-51",
+    "latitude": 37.48311251,
+    "longitude": 126.8077141
+  },
+  {
+    "address": "경기도 부천시 괴안동 113-13",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 113-14",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 115-13",
+    "latitude": 37.48291708,
+    "longitude": 126.8116809
+  },
+  {
+    "address": "경기도 부천시 괴안동 116-12",
+    "latitude": 37.48234845,
+    "longitude": 126.8121889
+  },
+  {
+    "address": "경기도 부천시 괴안동 116-19",
+    "latitude": 37.48273449,
+    "longitude": 126.8124502
+  },
+  {
+    "address": "경기도 부천시 괴안동 117",
+    "latitude": 37.48194532,
+    "longitude": 126.8125155
+  },
+  {
+    "address": "경기도 부천시 괴안동 117-1",
+    "latitude": 37.48225908,
+    "longitude": 126.8126504
+  },
+  {
+    "address": "경기도 부천시 괴안동 118",
+    "latitude": 37.4815491,
+    "longitude": 126.8126612
+  },
+  {
+    "address": "경기도 부천시 괴안동 118-11",
+    "latitude": 37.48160433,
+    "longitude": 126.8133982
+  },
+  {
+    "address": "경기도 부천시 괴안동 118-16",
+    "latitude": 37.48125418,
+    "longitude": 126.8130463
+  },
+  {
+    "address": "경기도 부천시 괴안동 118-18",
+    "latitude": 37.48104835,
+    "longitude": 126.8127891
+  },
+  {
+    "address": "경기도 부천시 괴안동 118-24",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 121-1",
+    "latitude": 37.48135456,
+    "longitude": 126.8149953
+  },
+  {
+    "address": "경기도 부천시 괴안동 122-1",
+    "latitude": 37.48189496,
+    "longitude": 126.8148673
+  },
+  {
+    "address": "경기도 부천시 괴안동 123-3 (124-4 옆)",
+    "latitude": 37.48233412,
+    "longitude": 126.814527
+  },
+  {
+    "address": "경기도 부천시 괴안동 12-5",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 12-6",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 126-2",
+    "latitude": 37.48383227,
+    "longitude": 126.8138088
+  },
+  {
+    "address": "경기도 부천시 괴안동 128-1(역곡프라자 앞)",
+    "latitude": 37.48508481,
+    "longitude": 126.8127564
+  },
+  {
+    "address": "경기도 부천시 괴안동 129-1 (130-100 앞)",
+    "latitude": 37.48487459,
+    "longitude": 126.8142901
+  },
+  {
+    "address": "경기도 부천시 괴안동 130-45",
+    "latitude": 37.48378789,
+    "longitude": 126.8153873
+  },
+  {
+    "address": "경기도 부천시 괴안동 130-68",
+    "latitude": 37.48344271,
+    "longitude": 126.8158992
+  },
+  {
+    "address": "경기도 부천시 괴안동 131-4",
+    "latitude": 37.47768303,
+    "longitude": 126.8110609
+  },
+  {
+    "address": "경기도 부천시 괴안동 132-3",
+    "latitude": 37.47783126,
+    "longitude": 126.8113494
+  },
+  {
+    "address": "경기도 부천시 괴안동 132-6",
+    "latitude": 37.47792886,
+    "longitude": 126.8115306
+  },
+  {
+    "address": "경기도 부천시 괴안동 142-2",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 147-1",
+    "latitude": 37.47728173,
+    "longitude": 126.8102751
+  },
+  {
+    "address": "경기도 부천시 괴안동 149-2",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 149-4",
+    "latitude": 37.47654056,
+    "longitude": 126.8088253
+  },
+  {
+    "address": "경기도 부천시 괴안동 149-4 (95-5 앞)",
+    "latitude": 37.47654056,
+    "longitude": 126.8088253
+  },
+  {
+    "address": "경기도 부천시 괴안동 149-4 (95-8앞)",
+    "latitude": 37.47654056,
+    "longitude": 126.8088253
+  },
+  {
+    "address": "경기도 부천시 괴안동 149-4(105-17 옆)",
+    "latitude": 37.47654056,
+    "longitude": 126.8088253
+  },
+  {
+    "address": "경기도 부천시 괴안동 151-12",
+    "latitude": 37.47516812,
+    "longitude": 126.8048404
+  },
+  {
+    "address": "경기도 부천시 괴안동 159-15",
+    "latitude": 37.4821502,
+    "longitude": 126.8167616
+  },
+  {
+    "address": "경기도 부천시 괴안동 159-5",
+    "latitude": 37.48190499,
+    "longitude": 126.8166718
+  },
+  {
+    "address": "경기도 부천시 괴안동 16-4",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 16-4",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 16-4",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 16-4",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 164-6",
+    "latitude": 37.47591784,
+    "longitude": 126.8048882
+  },
+  {
+    "address": "경기도 부천시 괴안동 164-6",
+    "latitude": 37.47591784,
+    "longitude": 126.8048882
+  },
+  {
+    "address": "경기도 부천시 괴안동 165 (165-9 옆)",
+    "latitude": 37.48289647,
+    "longitude": 126.8169135
+  },
+  {
+    "address": "경기도 부천시 괴안동 165-1",
+    "latitude": 37.48289647,
+    "longitude": 126.8169135
+  },
+  {
+    "address": "경기도 부천시 괴안동 167-10",
+    "latitude": 37.4847882,
+    "longitude": 126.8160852
+  },
+  {
+    "address": "경기도 부천시 괴안동 167-7",
+    "latitude": 37.48523063,
+    "longitude": 126.8161073
+  },
+  {
+    "address": "경기도 부천시 괴안동 167-8",
+    "latitude": 37.48512981,
+    "longitude": 126.8161664
+  },
+  {
+    "address": "경기도 부천시 괴안동 171-15 (107-13 앞)",
+    "latitude": 37.48059894,
+    "longitude": 126.8089733
+  },
+  {
+    "address": "경기도 부천시 괴안동 171-15 (99-26 앞)",
+    "latitude": 37.48059894,
+    "longitude": 126.8089733
+  },
+  {
+    "address": "경기도 부천시 괴안동 171-18",
+    "latitude": 37.48208818,
+    "longitude": 126.8094489
+  },
+  {
+    "address": "경기도 부천시 괴안동 171-18 (171-15)",
+    "latitude": 37.48208818,
+    "longitude": 126.8094489
+  },
+  {
+    "address": "경기도 부천시 괴안동 171-18 (171-15)",
+    "latitude": 37.48208818,
+    "longitude": 126.8094489
+  },
+  {
+    "address": "경기도 부천시 괴안동 171-18 앞",
+    "latitude": 37.48208818,
+    "longitude": 126.8094489
+  },
+  {
+    "address": "경기도 부천시 괴안동 171-18 옆",
+    "latitude": 37.48208818,
+    "longitude": 126.8094489
+  },
+  {
+    "address": "경기도 부천시 괴안동 171-6",
+    "latitude": 37.48100183,
+    "longitude": 126.8062905
+  },
+  {
+    "address": "경기도 부천시 괴안동 171-6",
+    "latitude": 37.48100183,
+    "longitude": 126.8062905
+  },
+  {
+    "address": "경기도 부천시 괴안동 171-6(대진아파트담장)",
+    "latitude": 37.48100183,
+    "longitude": 126.8062905
+  },
+  {
+    "address": "경기도 부천시 괴안동 173-3(110-28 앞)",
+    "latitude": 37.48249218,
+    "longitude": 126.8096695
+  },
+  {
+    "address": "경기도 부천시 괴안동 174-18",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 175-4",
+    "latitude": 37.48575903,
+    "longitude": 126.8175352
+  },
+  {
+    "address": "경기도 부천시 괴안동 176-4",
+    "latitude": 37.48487204,
+    "longitude": 126.8172796
+  },
+  {
+    "address": "경기도 부천시 괴안동 179-13",
+    "latitude": 37.48352583,
+    "longitude": 126.8183773
+  },
+  {
+    "address": "경기도 부천시 괴안동 179-9 번지 옆",
+    "latitude": 37.48301361,
+    "longitude": 126.8180891
+  },
+  {
+    "address": "경기도 부천시 괴안동 183-8",
+    "latitude": 37.48449534,
+    "longitude": 126.8183976
+  },
+  {
+    "address": "경기도 부천시 괴안동 184-17",
+    "latitude": 37.48559465,
+    "longitude": 126.8184447
+  },
+  {
+    "address": "경기도 부천시 괴안동 184-36",
+    "latitude": 37.48505061,
+    "longitude": 126.8185591
+  },
+  {
+    "address": "경기도 부천시 괴안동 188-2",
+    "latitude": 37.48707718,
+    "longitude": 126.8169395
+  },
+  {
+    "address": "경기도 부천시 괴안동 188-36",
+    "latitude": 37.48691089,
+    "longitude": 126.8166143
+  },
+  {
+    "address": "경기도 부천시 괴안동 189-15",
+    "latitude": 37.48808415,
+    "longitude": 126.8178733
+  },
+  {
+    "address": "경기도 부천시 괴안동 189-3",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 190-11",
+    "latitude": 37.48843192,
+    "longitude": 126.8190348
+  },
+  {
+    "address": "경기도 부천시 괴안동 190-47 (철길쪽)",
+    "latitude": 37.48871592,
+    "longitude": 126.8185638
+  },
+  {
+    "address": "경기도 부천시 괴안동 190-50",
+    "latitude": 37.48839827,
+    "longitude": 126.8182434
+  },
+  {
+    "address": "경기도 부천시 괴안동 199-2",
+    "latitude": 37.48861076,
+    "longitude": 126.8205043
+  },
+  {
+    "address": "경기도 부천시 괴안동 200-2",
+    "latitude": 37.48876799,
+    "longitude": 126.819622
+  },
+  {
+    "address": "경기도 부천시 괴안동 200-4",
+    "latitude": 37.4889632,
+    "longitude": 126.820006
+  },
+  {
+    "address": "경기도 부천시 괴안동 200-4",
+    "latitude": 37.4889632,
+    "longitude": 126.820006
+  },
+  {
+    "address": "경기도 부천시 괴안동 201",
+    "latitude": 37.48902995,
+    "longitude": 126.8188796
+  },
+  {
+    "address": "경기도 부천시 괴안동 201-16 앞",
+    "latitude": 37.48914298,
+    "longitude": 126.8197297
+  },
+  {
+    "address": "경기도 부천시 괴안동 201-19",
+    "latitude": 37.48936234,
+    "longitude": 126.8194125
+  },
+  {
+    "address": "경기도 부천시 괴안동 201-4",
+    "latitude": 37.48955732,
+    "longitude": 126.8196518
+  },
+  {
+    "address": "경기도 부천시 괴안동 203 (210-2)",
+    "latitude": 37.48902384,
+    "longitude": 126.820366
+  },
+  {
+    "address": "경기도 부천시 괴안동 205-2",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 205-2",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 205-2",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 205-3",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 205-3",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 205-3",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 205-3",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 205-3",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 205-3",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 211-1",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 211-1",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 211-1 (성심고가교 밑)",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 211-1 (성심고가교 밑)",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 211-1 도로(성심고가 계단)",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 211-1(성심고가교 밑)",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 2-15",
+    "latitude": 37.48264255,
+    "longitude": 126.8068289
+  },
+  {
+    "address": "경기도 부천시 괴안동 224-7",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 224-7",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 224-7",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 224-8",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 2-30",
+    "latitude": 37.48290188,
+    "longitude": 126.8067333
+  },
+  {
+    "address": "경기도 부천시 괴안동 23-22",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 234-2",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 238-11",
+    "latitude": 37.47516812,
+    "longitude": 126.8048404
+  },
+  {
+    "address": "경기도 부천시 괴안동 239-5 (2)",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 239-5 (3) (204-15앞)",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 239-5 (4) (266-35앞)",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 239-5(1)",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 241-3",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 241-4 (2)",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 241-5 (1)",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 241-8 옆 (241-7)",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 2-6 앞",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 28-10",
+    "latitude": 37.47936843,
+    "longitude": 126.8036401
+  },
+  {
+    "address": "경기도 부천시 괴안동 28-2",
+    "latitude": 37.47901886,
+    "longitude": 126.8036481
+  },
+  {
+    "address": "경기도 부천시 괴안동 30-5",
+    "latitude": 37.47743797,
+    "longitude": 126.8022568
+  },
+  {
+    "address": "경기도 부천시 괴안동 31-15",
+    "latitude": 37.4771309,
+    "longitude": 126.8039851
+  },
+  {
+    "address": "경기도 부천시 괴안동 31-18번지 앞",
+    "latitude": 37.4768209,
+    "longitude": 126.8039497
+  },
+  {
+    "address": "경기도 부천시 괴안동 31-21",
+    "latitude": 37.47874125,
+    "longitude": 126.803592
+  },
+  {
+    "address": "경기도 부천시 괴안동 31-23",
+    "latitude": 37.47876315,
+    "longitude": 126.8037547
+  },
+  {
+    "address": "경기도 부천시 괴안동 31-24",
+    "latitude": 37.4786481,
+    "longitude": 126.8039268
+  },
+  {
+    "address": "경기도 부천시 괴안동 3-13",
+    "latitude": 37.48145944,
+    "longitude": 126.8062305
+  },
+  {
+    "address": "경기도 부천시 괴안동 31-4",
+    "latitude": 37.47818351,
+    "longitude": 126.8041225
+  },
+  {
+    "address": "경기도 부천시 괴안동 3-16",
+    "latitude": 37.48193672,
+    "longitude": 126.8071744
+  },
+  {
+    "address": "경기도 부천시 괴안동 3-16 한아름 아파트 나동 입구",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 31-7 앞",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 3-18",
+    "latitude": 37.4815174,
+    "longitude": 126.8064067
+  },
+  {
+    "address": "경기도 부천시 괴안동 32-3",
+    "latitude": 37.4787717,
+    "longitude": 126.8045642
+  },
+  {
+    "address": "경기도 부천시 괴안동 32-3 (31-6 앞)",
+    "latitude": 37.4787717,
+    "longitude": 126.8045642
+  },
+  {
+    "address": "경기도 부천시 괴안동 33",
+    "latitude": 37.4787717,
+    "longitude": 126.8045642
+  },
+  {
+    "address": "경기도 부천시 괴안동 33",
+    "latitude": 37.4787717,
+    "longitude": 126.8045642
+  },
+  {
+    "address": "경기도 부천시 괴안동 33 (31-13 앞)",
+    "latitude": 37.4787717,
+    "longitude": 126.8045642
+  },
+  {
+    "address": "경기도 부천시 괴안동 3-35",
+    "latitude": 37.4815798,
+    "longitude": 126.8070985
+  },
+  {
+    "address": "경기도 부천시 괴안동 3-37",
+    "latitude": 37.4817526,
+    "longitude": 126.806985
+  },
+  {
+    "address": "경기도 부천시 괴안동 3-39",
+    "latitude": 37.48193262,
+    "longitude": 126.8068715
+  },
+  {
+    "address": "경기도 부천시 괴안동 34",
+    "latitude": 37.4787717,
+    "longitude": 126.8045642
+  },
+  {
+    "address": "경기도 부천시 괴안동 34",
+    "latitude": 37.4787717,
+    "longitude": 126.8045642
+  },
+  {
+    "address": "경기도 부천시 괴안동 34-1 (산16-7 앞)",
+    "latitude": 37.4787717,
+    "longitude": 126.8045642
+  },
+  {
+    "address": "경기도 부천시 괴안동 3-43(동광교회 후문)",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 35-2",
+    "latitude": 37.4787717,
+    "longitude": 126.8045642
+  },
+  {
+    "address": "경기도 부천시 괴안동 35-6",
+    "latitude": 37.4787717,
+    "longitude": 126.8045642
+  },
+  {
+    "address": "경기도 부천시 괴안동 35-6",
+    "latitude": 37.4787717,
+    "longitude": 126.8045642
+  },
+  {
+    "address": "경기도 부천시 괴안동 35-6",
+    "latitude": 37.4787717,
+    "longitude": 126.8045642
+  },
+  {
+    "address": "경기도 부천시 괴안동 36",
+    "latitude": 37.47936246,
+    "longitude": 126.8043817
+  },
+  {
+    "address": "경기도 부천시 괴안동 36-1",
+    "latitude": 37.47936246,
+    "longitude": 126.8043817
+  },
+  {
+    "address": "경기도 부천시 괴안동 36-4",
+    "latitude": 37.47936246,
+    "longitude": 126.8043817
+  },
+  {
+    "address": "경기도 부천시 괴안동 36-6",
+    "latitude": 37.47936246,
+    "longitude": 126.8043817
+  },
+  {
+    "address": "경기도 부천시 괴안동 37",
+    "latitude": 37.47936246,
+    "longitude": 126.8043817
+  },
+  {
+    "address": "경기도 부천시 괴안동 37",
+    "latitude": 37.47936246,
+    "longitude": 126.8043817
+  },
+  {
+    "address": "경기도 부천시 괴안동 37",
+    "latitude": 37.47936246,
+    "longitude": 126.8043817
+  },
+  {
+    "address": "경기도 부천시 괴안동 37",
+    "latitude": 37.47936246,
+    "longitude": 126.8043817
+  },
+  {
+    "address": "경기도 부천시 괴안동 37-1",
+    "latitude": 37.47936246,
+    "longitude": 126.8043817
+  },
+  {
+    "address": "경기도 부천시 괴안동 37-3",
+    "latitude": 37.47936246,
+    "longitude": 126.8043817
+  },
+  {
+    "address": "경기도 부천시 괴안동 37-3",
+    "latitude": 37.47936246,
+    "longitude": 126.8043817
+  },
+  {
+    "address": "경기도 부천시 괴안동 37-4",
+    "latitude": 37.47936246,
+    "longitude": 126.8043817
+  },
+  {
+    "address": "경기도 부천시 괴안동 37-4",
+    "latitude": 37.47936246,
+    "longitude": 126.8043817
+  },
+  {
+    "address": "경기도 부천시 괴안동 37-4",
+    "latitude": 37.47936246,
+    "longitude": 126.8043817
+  },
+  {
+    "address": "경기도 부천시 괴안동 37-4 옹벽",
+    "latitude": 37.47936246,
+    "longitude": 126.8043817
+  },
+  {
+    "address": "경기도 부천시 괴안동 38-10",
+    "latitude": 37.48063479,
+    "longitude": 126.8044463
+  },
+  {
+    "address": "경기도 부천시 괴안동 38-8",
+    "latitude": 37.48038226,
+    "longitude": 126.8042977
+  },
+  {
+    "address": "경기도 부천시 괴안동 39-4",
+    "latitude": 37.48070097,
+    "longitude": 126.805242
+  },
+  {
+    "address": "경기도 부천시 괴안동 39-5",
+    "latitude": 37.48062503,
+    "longitude": 126.8050885
+  },
+  {
+    "address": "경기도 부천시 괴안동 40",
+    "latitude": 37.48040905,
+    "longitude": 126.8052428
+  },
+  {
+    "address": "경기도 부천시 괴안동 40-11",
+    "latitude": 37.47980061,
+    "longitude": 126.8056333
+  },
+  {
+    "address": "경기도 부천시 괴안동 40-11",
+    "latitude": 37.47980061,
+    "longitude": 126.8056333
+  },
+  {
+    "address": "경기도 부천시 괴안동 40-5",
+    "latitude": 37.48015064,
+    "longitude": 126.8059037
+  },
+  {
+    "address": "경기도 부천시 괴안동 40-7",
+    "latitude": 37.47978014,
+    "longitude": 126.8063388
+  },
+  {
+    "address": "경기도 부천시 괴안동 40-8",
+    "latitude": 37.47973638,
+    "longitude": 126.8060224
+  },
+  {
+    "address": "경기도 부천시 괴안동 40-9",
+    "latitude": 37.47982999,
+    "longitude": 126.8059679
+  },
+  {
+    "address": "경기도 부천시 괴안동 4-12",
+    "latitude": 37.48143167,
+    "longitude": 126.8046839
+  },
+  {
+    "address": "경기도 부천시 괴안동 4-13",
+    "latitude": 37.48147886,
+    "longitude": 126.8048873
+  },
+  {
+    "address": "경기도 부천시 괴안동 49-14",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 5 (5-26 옆)",
+    "latitude": 37.48172511,
+    "longitude": 126.8034259
+  },
+  {
+    "address": "경기도 부천시 괴안동 5-10",
+    "latitude": 37.48152467,
+    "longitude": 126.8042585
+  },
+  {
+    "address": "경기도 부천시 괴안동 5-13 (건물옥상)",
+    "latitude": 37.48151357,
+    "longitude": 126.8040822
+  },
+  {
+    "address": "경기도 부천시 괴안동 5-16",
+    "latitude": 37.48131896,
+    "longitude": 126.8040872
+  },
+  {
+    "address": "경기도 부천시 괴안동 5-19",
+    "latitude": 37.48160342,
+    "longitude": 126.8039327
+  },
+  {
+    "address": "경기도 부천시 괴안동 5-28",
+    "latitude": 37.48152726,
+    "longitude": 126.803648
+  },
+  {
+    "address": "경기도 부천시 괴안동 5-7",
+    "latitude": 37.48158617,
+    "longitude": 126.8043986
+  },
+  {
+    "address": "경기도 부천시 괴안동 5-9",
+    "latitude": 37.48130866,
+    "longitude": 126.8043993
+  },
+  {
+    "address": "경기도 부천시 괴안동 6-3",
+    "latitude": 37.48105566,
+    "longitude": 126.8039658
+  },
+  {
+    "address": "경기도 부천시 괴안동 6-5",
+    "latitude": 37.48090473,
+    "longitude": 126.804233
+  },
+  {
+    "address": "경기도 부천시 괴안동 70",
+    "latitude": 37.47951241,
+    "longitude": 126.8057109
+  },
+  {
+    "address": "경기도 부천시 괴안동 70-11",
+    "latitude": 37.47929625,
+    "longitude": 126.8057567
+  },
+  {
+    "address": "경기도 부천시 괴안동 71-12",
+    "latitude": 37.47888714,
+    "longitude": 126.806825
+  },
+  {
+    "address": "경기도 부천시 괴안동 71-20",
+    "latitude": 37.47882105,
+    "longitude": 126.8060835
+  },
+  {
+    "address": "경기도 부천시 괴안동 71-22",
+    "latitude": 37.47880979,
+    "longitude": 126.8058122
+  },
+  {
+    "address": "경기도 부천시 괴안동 71-30",
+    "latitude": 37.47863727,
+    "longitude": 126.8060976
+  },
+  {
+    "address": "경기도 부천시 괴안동 71-30",
+    "latitude": 37.47863727,
+    "longitude": 126.8060976
+  },
+  {
+    "address": "경기도 부천시 괴안동 71-5",
+    "latitude": 37.47871785,
+    "longitude": 126.8068888
+  },
+  {
+    "address": "경기도 부천시 괴안동 71-9",
+    "latitude": 37.47866222,
+    "longitude": 126.8059257
+  },
+  {
+    "address": "경기도 부천시 괴안동 72 (73-11 앞)",
+    "latitude": 37.47813419,
+    "longitude": 126.8070079
+  },
+  {
+    "address": "경기도 부천시 괴안동 72(71-28앞)",
+    "latitude": 37.47813419,
+    "longitude": 126.8070079
+  },
+  {
+    "address": "경기도 부천시 괴안동 72-5",
+    "latitude": 37.47797561,
+    "longitude": 126.8070037
+  },
+  {
+    "address": "경기도 부천시 괴안동 72-7",
+    "latitude": 37.47770938,
+    "longitude": 126.8072893
+  },
+  {
+    "address": "경기도 부천시 괴안동 72-8",
+    "latitude": 37.47765858,
+    "longitude": 126.8070769
+  },
+  {
+    "address": "경기도 부천시 괴안동 73-18",
+    "latitude": 37.47821871,
+    "longitude": 126.8058002
+  },
+  {
+    "address": "경기도 부천시 괴안동 73-3",
+    "latitude": 37.47837847,
+    "longitude": 126.8065188
+  },
+  {
+    "address": "경기도 부천시 괴안동 7-8",
+    "latitude": 37.48011089,
+    "longitude": 126.8036562
+  },
+  {
+    "address": "경기도 부천시 괴안동 85번지",
+    "latitude": 37.47718263,
+    "longitude": 126.806947
+  },
+  {
+    "address": "경기도 부천시 괴안동 86",
+    "latitude": 37.47713991,
+    "longitude": 126.8072727
+  },
+  {
+    "address": "경기도 부천시 괴안동 86-5",
+    "latitude": 37.47686305,
+    "longitude": 126.8076714
+  },
+  {
+    "address": "경기도 부천시 괴안동 87-14",
+    "latitude": 37.47674581,
+    "longitude": 126.8087118
+  },
+  {
+    "address": "경기도 부천시 괴안동 87-14 청송아파트 앞",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 87-5",
+    "latitude": 37.47691418,
+    "longitude": 126.8080827
+  },
+  {
+    "address": "경기도 부천시 괴안동 88 (현대아파트 앞)",
+    "latitude": 37.47838746,
+    "longitude": 126.8076087
+  },
+  {
+    "address": "경기도 부천시 괴안동 88-14 건물",
+    "latitude": 37.47820392,
+    "longitude": 126.8077765
+  },
+  {
+    "address": "경기도 부천시 괴안동 88-15",
+    "latitude": 37.47740388,
+    "longitude": 126.8078056
+  },
+  {
+    "address": "경기도 부천시 괴안동 88-16",
+    "latitude": 37.47839187,
+    "longitude": 126.8081061
+  },
+  {
+    "address": "경기도 부천시 괴안동 88-19 (건물옥상)",
+    "latitude": 37.47796651,
+    "longitude": 126.8080529
+  },
+  {
+    "address": "경기도 부천시 괴안동 88-3",
+    "latitude": 37.47807469,
+    "longitude": 126.8080888
+  },
+  {
+    "address": "경기도 부천시 괴안동 88-35",
+    "latitude": 37.47780806,
+    "longitude": 126.8081302
+  },
+  {
+    "address": "경기도 부천시 괴안동 88-4",
+    "latitude": 37.47794513,
+    "longitude": 126.8082022
+  },
+  {
+    "address": "경기도 부천시 괴안동 88-9",
+    "latitude": 37.47757348,
+    "longitude": 126.8079363
+  },
+  {
+    "address": "경기도 부천시 괴안동 88-9 (88-35 옆)",
+    "latitude": 37.47757348,
+    "longitude": 126.8079363
+  },
+  {
+    "address": "경기도 부천시 괴안동 89-4",
+    "latitude": 37.47865526,
+    "longitude": 126.8082908
+  },
+  {
+    "address": "경기도 부천시 괴안동 90",
+    "latitude": 37.4796377,
+    "longitude": 126.8073929
+  },
+  {
+    "address": "경기도 부천시 괴안동 90",
+    "latitude": 37.4796377,
+    "longitude": 126.8073929
+  },
+  {
+    "address": "경기도 부천시 괴안동 90",
+    "latitude": 37.4796377,
+    "longitude": 126.8073929
+  },
+  {
+    "address": "경기도 부천시 괴안동 90",
+    "latitude": 37.4796377,
+    "longitude": 126.8073929
+  },
+  {
+    "address": "경기도 부천시 괴안동 90-2",
+    "latitude": 37.47937818,
+    "longitude": 126.807371
+  },
+  {
+    "address": "경기도 부천시 괴안동 90-2",
+    "latitude": 37.47937818,
+    "longitude": 126.807371
+  },
+  {
+    "address": "경기도 부천시 괴안동 91-14",
+    "latitude": 37.47888783,
+    "longitude": 126.8094706
+  },
+  {
+    "address": "경기도 부천시 괴안동 91-20",
+    "latitude": 37.47897384,
+    "longitude": 126.8091674
+  },
+  {
+    "address": "경기도 부천시 괴안동 91-3",
+    "latitude": 37.47972281,
+    "longitude": 126.8087539
+  },
+  {
+    "address": "경기도 부천시 괴안동 91-5 (91 옆)",
+    "latitude": 37.47963606,
+    "longitude": 126.8086004
+  },
+  {
+    "address": "경기도 부천시 괴안동 91-7 전주",
+    "latitude": 37.47941216,
+    "longitude": 126.8083206
+  },
+  {
+    "address": "경기도 부천시 괴안동 91-8",
+    "latitude": 37.47922098,
+    "longitude": 126.808217
+  },
+  {
+    "address": "경기도 부천시 괴안동 92-14",
+    "latitude": 37.47844104,
+    "longitude": 126.8095395
+  },
+  {
+    "address": "경기도 부천시 괴안동 92-16",
+    "latitude": 37.4781241,
+    "longitude": 126.8096715
+  },
+  {
+    "address": "경기도 부천시 괴안동 92-17",
+    "latitude": 37.47826835,
+    "longitude": 126.8097299
+  },
+  {
+    "address": "경기도 부천시 괴안동 92-19 (93-12 앞)",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 92-5",
+    "latitude": 37.47815633,
+    "longitude": 126.8095448
+  },
+  {
+    "address": "경기도 부천시 괴안동 93",
+    "latitude": 37.47827371,
+    "longitude": 126.8085858
+  },
+  {
+    "address": "경기도 부천시 괴안동 93-1",
+    "latitude": 37.47808979,
+    "longitude": 126.8085139
+  },
+  {
+    "address": "경기도 부천시 괴안동 93-10",
+    "latitude": 37.47776611,
+    "longitude": 126.8089353
+  },
+  {
+    "address": "경기도 부천시 괴안동 93-11",
+    "latitude": 37.47795358,
+    "longitude": 126.808971
+  },
+  {
+    "address": "경기도 부천시 괴안동 93-12",
+    "latitude": 37.47813379,
+    "longitude": 126.8089796
+  },
+  {
+    "address": "경기도 부천시 괴안동 93-18",
+    "latitude": 37.47781027,
+    "longitude": 126.8094959
+  },
+  {
+    "address": "경기도 부천시 괴안동 93-2",
+    "latitude": 37.4781981,
+    "longitude": 126.8086312
+  },
+  {
+    "address": "경기도 부천시 괴안동 93-20",
+    "latitude": 37.47759385,
+    "longitude": 126.8093879
+  },
+  {
+    "address": "경기도 부천시 괴안동 93-6",
+    "latitude": 37.47789173,
+    "longitude": 126.8086139
+  },
+  {
+    "address": "경기도 부천시 괴안동 94-1",
+    "latitude": 37.47754223,
+    "longitude": 126.808669
+  },
+  {
+    "address": "경기도 부천시 괴안동 94-17",
+    "latitude": 37.47720721,
+    "longitude": 126.8087648
+  },
+  {
+    "address": "경기도 부천시 괴안동 94-2",
+    "latitude": 37.47742046,
+    "longitude": 126.8091397
+  },
+  {
+    "address": "경기도 부천시 괴안동 94-24",
+    "latitude": 37.47710323,
+    "longitude": 126.8090952
+  },
+  {
+    "address": "경기도 부천시 괴안동 94-26",
+    "latitude": 37.47736517,
+    "longitude": 126.8083846
+  },
+  {
+    "address": "경기도 부천시 괴안동 94-26",
+    "latitude": 37.47736517,
+    "longitude": 126.8083846
+  },
+  {
+    "address": "경기도 부천시 괴안동 94-6",
+    "latitude": 37.47717139,
+    "longitude": 126.8089006
+  },
+  {
+    "address": "경기도 부천시 괴안동 94-9",
+    "latitude": 37.47760323,
+    "longitude": 126.8085016
+  },
+  {
+    "address": "경기도 부천시 괴안동 95-10",
+    "latitude": 37.4773493,
+    "longitude": 126.8097142
+  },
+  {
+    "address": "경기도 부천시 괴안동 96-22",
+    "latitude": 37.47758798,
+    "longitude": 126.8102221
+  },
+  {
+    "address": "경기도 부천시 괴안동 97-2",
+    "latitude": 37.47814974,
+    "longitude": 126.8099247
+  },
+  {
+    "address": "경기도 부천시 괴안동 97-30",
+    "latitude": 37.47799598,
+    "longitude": 126.8106848
+  },
+  {
+    "address": "경기도 부천시 괴안동 97-7",
+    "latitude": 37.47800983,
+    "longitude": 126.810332
+  },
+  {
+    "address": "경기도 부천시 괴안동 98-10",
+    "latitude": 37.47867371,
+    "longitude": 126.8107916
+  },
+  {
+    "address": "경기도 부천시 괴안동 98-18(미성빌라 3동) (건물옥상)",
+    "latitude": 37.4787984,
+    "longitude": 126.8098868
+  },
+  {
+    "address": "경기도 부천시 괴안동 98-20",
+    "latitude": 37.47878794,
+    "longitude": 126.8101039
+  },
+  {
+    "address": "경기도 부천시 괴안동 98-6",
+    "latitude": 37.47883978,
+    "longitude": 126.8109676
+  },
+  {
+    "address": "경기도 부천시 괴안동 98-7",
+    "latitude": 37.4786956,
+    "longitude": 126.8109589
+  },
+  {
+    "address": "경기도 부천시 괴안동 99 (171-9 앞)",
+    "latitude": 37.47986014,
+    "longitude": 126.8089887
+  },
+  {
+    "address": "경기도 부천시 괴안동 99-15",
+    "latitude": 37.47961189,
+    "longitude": 126.8092517
+  },
+  {
+    "address": "경기도 부천시 괴안동 99-23",
+    "latitude": 37.48047883,
+    "longitude": 126.8104795
+  },
+  {
+    "address": "경기도 부천시 괴안동 99-25",
+    "latitude": 37.48059459,
+    "longitude": 126.8107461
+  },
+  {
+    "address": "경기도 부천시 괴안동 99-25 앞",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 99-27",
+    "latitude": 37.48061289,
+    "longitude": 126.8109224
+  },
+  {
+    "address": "경기도 부천시 괴안동 99-31(99-20)",
+    "latitude": 37.48038136,
+    "longitude": 126.8103803
+  },
+  {
+    "address": "경기도 부천시 괴안동 99-33 옆 (99-1)",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 99-36",
+    "latitude": 37.48019438,
+    "longitude": 126.8106476
+  },
+  {
+    "address": "경기도 부천시 괴안동 99-4",
+    "latitude": 37.47998937,
+    "longitude": 126.8109104
+  },
+  {
+    "address": "경기도 부천시 괴안동 99-42",
+    "latitude": 37.48036806,
+    "longitude": 126.8110768
+  },
+  {
+    "address": "경기도 부천시 괴안동 99-50",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 99-54",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 산15 현대허니문아파트 정문 앞",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동 산16-7",
+    "latitude": 37.47707937,
+    "longitude": 126.8055137
+  },
+  {
+    "address": "경기도 부천시 괴안동 산16-7",
+    "latitude": 37.47707937,
+    "longitude": 126.8055137
+  },
+  {
+    "address": "경기도 부천시 괴안동119-28 건너편 (학교방향)",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 괴안동119-7 앞 인도 전주",
+    "latitude": 37.48152982,
+    "longitude": 126.8141401
+  },
+  {
+    "address": "경기도 부천시 괴안동171-10(대진아파트101동 앞)",
+    "latitude": 37.48166743,
+    "longitude": 126.8077947
+  },
+  {
+    "address": "경기도 부천시 괴안동178-15",
+    "latitude": 37.4833561,
+    "longitude": 126.8181561
+  },
+  {
+    "address": "경기도 부천시 괴안동201-1",
+    "latitude": 37.48914203,
+    "longitude": 126.8191098
+  },
+  {
+    "address": "경기도 부천시 괴안등 123-20",
+    "latitude": 37.48209295,
+    "longitude": 126.8147176
+  },
+  {
+    "address": "경기도 부천시 역고2동 67-14번지",
+    "latitude": 37.4891414,
+    "longitude": 126.8095395
+  },
+  {
+    "address": "경기도 부천시 역곡1동 100-2",
+    "latitude": 37.49087124,
+    "longitude": 126.8094808
+  },
+  {
+    "address": "경기도 부천시 역곡1동 101",
+    "latitude": 37.49133049,
+    "longitude": 126.8104386
+  },
+  {
+    "address": "경기도 부천시 역곡1동 101번지",
+    "latitude": 37.49133049,
+    "longitude": 126.8104386
+  },
+  {
+    "address": "경기도 부천시 역곡1동 103-15",
+    "latitude": 37.4907157,
+    "longitude": 126.8113719
+  },
+  {
+    "address": "경기도 부천시 역곡1동 103-23",
+    "latitude": 37.48993048,
+    "longitude": 126.8116588
+  },
+  {
+    "address": "경기도 부천시 역곡1동 103-24",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 103-27",
+    "latitude": 37.49016814,
+    "longitude": 126.8115315
+  },
+  {
+    "address": "경기도 부천시 역곡1동 104-3",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 104-4",
+    "latitude": 37.48999973,
+    "longitude": 126.8121471
+  },
+  {
+    "address": "경기도 부천시 역곡1동 104-5",
+    "latitude": 37.48989865,
+    "longitude": 126.8120388
+  },
+  {
+    "address": "경기도 부천시 역곡1동 106-8",
+    "latitude": 37.48913533,
+    "longitude": 126.812502
+  },
+  {
+    "address": "경기도 부천시 역곡1동 107-1",
+    "latitude": 37.48947673,
+    "longitude": 126.8118815
+  },
+  {
+    "address": "경기도 부천시 역곡1동 107-12",
+    "latitude": 37.48933218,
+    "longitude": 126.8116377
+  },
+  {
+    "address": "경기도 부천시 역곡1동 107-13",
+    "latitude": 37.48947965,
+    "longitude": 126.8114564
+  },
+  {
+    "address": "경기도 부천시 역곡1동 107-19",
+    "latitude": 37.48887468,
+    "longitude": 126.8117706
+  },
+  {
+    "address": "경기도 부천시 역곡1동 108",
+    "latitude": 37.4883349,
+    "longitude": 126.8122915
+  },
+  {
+    "address": "경기도 부천시 역곡1동 108",
+    "latitude": 37.4883349,
+    "longitude": 126.8122915
+  },
+  {
+    "address": "경기도 부천시 역곡1동 108",
+    "latitude": 37.4883349,
+    "longitude": 126.8122915
+  },
+  {
+    "address": "경기도 부천시 역곡1동 109",
+    "latitude": 37.48785199,
+    "longitude": 126.8123108
+  },
+  {
+    "address": "경기도 부천시 역곡1동 109",
+    "latitude": 37.48785199,
+    "longitude": 126.8123108
+  },
+  {
+    "address": "경기도 부천시 역곡1동 109-12",
+    "latitude": 37.48757487,
+    "longitude": 126.8125512
+  },
+  {
+    "address": "경기도 부천시 역곡1동 109-12",
+    "latitude": 37.48757487,
+    "longitude": 126.8125512
+  },
+  {
+    "address": "경기도 부천시 역곡1동 109-14",
+    "latitude": 37.48774481,
+    "longitude": 126.8129035
+  },
+  {
+    "address": "경기도 부천시 역곡1동 109-4",
+    "latitude": 37.48817402,
+    "longitude": 126.8131105
+  },
+  {
+    "address": "경기도 부천시 역곡1동 109-8번지",
+    "latitude": 37.48786777,
+    "longitude": 126.8131701
+  },
+  {
+    "address": "경기도 부천시 역곡1동 109-8번지",
+    "latitude": 37.48786777,
+    "longitude": 126.8131701
+  },
+  {
+    "address": "경기도 부천시 역곡1동 110",
+    "latitude": 37.48738032,
+    "longitude": 126.8125969
+  },
+  {
+    "address": "경기도 부천시 역곡1동 110-14",
+    "latitude": 37.48703459,
+    "longitude": 126.8127606
+  },
+  {
+    "address": "경기도 부천시 역곡1동 110-14",
+    "latitude": 37.48703459,
+    "longitude": 126.8127606
+  },
+  {
+    "address": "경기도 부천시 역곡1동 110-14",
+    "latitude": 37.48703459,
+    "longitude": 126.8127606
+  },
+  {
+    "address": "경기도 부천시 역곡1동 111",
+    "latitude": 37.48677884,
+    "longitude": 126.8128471
+  },
+  {
+    "address": "경기도 부천시 역곡1동 111-1",
+    "latitude": 37.48684066,
+    "longitude": 126.8131952
+  },
+  {
+    "address": "경기도 부천시 역곡1동 111-1",
+    "latitude": 37.48684066,
+    "longitude": 126.8131952
+  },
+  {
+    "address": "경기도 부천시 역곡1동 111-10",
+    "latitude": 37.48654119,
+    "longitude": 126.8129789
+  },
+  {
+    "address": "경기도 부천시 역곡1동 111-10",
+    "latitude": 37.48654119,
+    "longitude": 126.8129789
+  },
+  {
+    "address": "경기도 부천시 역곡1동 111-4",
+    "latitude": 37.48707579,
+    "longitude": 126.8137419
+  },
+  {
+    "address": "경기도 부천시 역곡1동 112",
+    "latitude": 37.48628941,
+    "longitude": 126.8132961
+  },
+  {
+    "address": "경기도 부천시 역곡1동 112-7",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 113",
+    "latitude": 37.48695146,
+    "longitude": 126.8148955
+  },
+  {
+    "address": "경기도 부천시 역곡1동 113",
+    "latitude": 37.48695146,
+    "longitude": 126.8148955
+  },
+  {
+    "address": "경기도 부천시 역곡1동 113",
+    "latitude": 37.48695146,
+    "longitude": 126.8148955
+  },
+  {
+    "address": "경기도 부천시 역곡1동 113",
+    "latitude": 37.48695146,
+    "longitude": 126.8148955
+  },
+  {
+    "address": "경기도 부천시 역곡1동 113",
+    "latitude": 37.48695146,
+    "longitude": 126.8148955
+  },
+  {
+    "address": "경기도 부천시 역곡1동 113-10",
+    "latitude": 37.48665593,
+    "longitude": 126.8148963
+  },
+  {
+    "address": "경기도 부천시 역곡1동 113-12",
+    "latitude": 37.48651859,
+    "longitude": 126.8146478
+  },
+  {
+    "address": "경기도 부천시 역곡1동 113-7",
+    "latitude": 37.48689082,
+    "longitude": 126.8152982
+  },
+  {
+    "address": "경기도 부천시 역곡1동 114-10",
+    "latitude": 37.48795745,
+    "longitude": 126.8151961
+  },
+  {
+    "address": "경기도 부천시 역곡1동 114-12",
+    "latitude": 37.48791008,
+    "longitude": 126.8148615
+  },
+  {
+    "address": "경기도 부천시 역곡1동 114-5",
+    "latitude": 37.48803971,
+    "longitude": 126.8147888
+  },
+  {
+    "address": "경기도 부천시 역곡1동 114-8",
+    "latitude": 37.48821705,
+    "longitude": 126.8152633
+  },
+  {
+    "address": "경기도 부천시 역곡1동 114-9",
+    "latitude": 37.48804059,
+    "longitude": 126.8153542
+  },
+  {
+    "address": "경기도 부천시 역곡1동 115",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 115",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 115-1",
+    "latitude": 37.48851849,
+    "longitude": 126.8144349
+  },
+  {
+    "address": "경기도 부천시 역곡1동 115-6",
+    "latitude": 37.48843849,
+    "longitude": 126.8139828
+  },
+  {
+    "address": "경기도 부천시 역곡1동 115-8",
+    "latitude": 37.48835148,
+    "longitude": 126.8136573
+  },
+  {
+    "address": "경기도 부천시 역곡1동 122-2번지",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 123-1",
+    "latitude": 37.49387146,
+    "longitude": 126.8105181
+  },
+  {
+    "address": "경기도 부천시 역곡1동 126-1",
+    "latitude": 37.49545588,
+    "longitude": 126.8096773
+  },
+  {
+    "address": "경기도 부천시 역곡1동 126-3",
+    "latitude": 37.49524065,
+    "longitude": 126.8103111
+  },
+  {
+    "address": "경기도 부천시 역곡1동 126-6",
+    "latitude": 37.49454888,
+    "longitude": 126.810435
+  },
+  {
+    "address": "경기도 부천시 역곡1동 127",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 127",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 128-12",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 128-14",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 128-18",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 128-4",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 128번지",
+    "latitude": 37.49631069,
+    "longitude": 126.8100867
+  },
+  {
+    "address": "경기도 부천시 역곡1동 129",
+    "latitude": 37.49500931,
+    "longitude": 126.8098819
+  },
+  {
+    "address": "경기도 부천시 역곡1동 129-3",
+    "latitude": 37.49504123,
+    "longitude": 126.8095652
+  },
+  {
+    "address": "경기도 부천시 역곡1동 130-1",
+    "latitude": 37.49450776,
+    "longitude": 126.8095168
+  },
+  {
+    "address": "경기도 부천시 역곡1동 130-3",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 132",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 132-1",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 135",
+    "latitude": 37.49421901,
+    "longitude": 126.8092507
+  },
+  {
+    "address": "경기도 부천시 역곡1동 14",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 150-4",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 150-5",
+    "latitude": 37.49295373,
+    "longitude": 126.8068657
+  },
+  {
+    "address": "경기도 부천시 역곡1동 152",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 157-21",
+    "latitude": 37.49309611,
+    "longitude": 126.8079871
+  },
+  {
+    "address": "경기도 부천시 역곡1동 157-23",
+    "latitude": 37.49323662,
+    "longitude": 126.807955
+  },
+  {
+    "address": "경기도 부천시 역곡1동 157-28 번지",
+    "latitude": 37.49309921,
+    "longitude": 126.8076795
+  },
+  {
+    "address": "경기도 부천시 역곡1동 157-29 번지",
+    "latitude": 37.49313137,
+    "longitude": 126.8075075
+  },
+  {
+    "address": "경기도 부천시 역곡1동 157-30",
+    "latitude": 37.49331886,
+    "longitude": 126.8075568
+  },
+  {
+    "address": "경기도 부천시 역곡1동 157-36",
+    "latitude": 37.49315624,
+    "longitude": 126.8072858
+  },
+  {
+    "address": "경기도 부천시 역곡1동 158-3",
+    "latitude": 37.49289839,
+    "longitude": 126.8082952
+  },
+  {
+    "address": "경기도 부천시 역곡1동 160-3번지",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 162-1",
+    "latitude": 37.49281337,
+    "longitude": 126.8069882
+  },
+  {
+    "address": "경기도 부천시 역곡1동 162-1",
+    "latitude": 37.49281337,
+    "longitude": 126.8069882
+  },
+  {
+    "address": "경기도 부천시 역곡1동 162-2",
+    "latitude": 37.49263474,
+    "longitude": 126.8079521
+  },
+  {
+    "address": "경기도 부천시 역곡1동 162-3",
+    "latitude": 37.49251881,
+    "longitude": 126.8075815
+  },
+  {
+    "address": "경기도 부천시 역곡1동 165번지",
+    "latitude": 37.49206907,
+    "longitude": 126.808053
+  },
+  {
+    "address": "경기도 부천시 역곡1동 172",
+    "latitude": 37.49154984,
+    "longitude": 126.807896
+  },
+  {
+    "address": "경기도 부천시 역곡1동 172 번지",
+    "latitude": 37.49140562,
+    "longitude": 126.8078602
+  },
+  {
+    "address": "경기도 부천시 역곡1동 172-2",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 172번지",
+    "latitude": 37.49170129,
+    "longitude": 126.8079454
+  },
+  {
+    "address": "경기도 부천시 역곡1동 173",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 174",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 178-17",
+    "latitude": 37.49076721,
+    "longitude": 126.8075543
+  },
+  {
+    "address": "경기도 부천시 역곡1동 178-17호",
+    "latitude": 37.49076721,
+    "longitude": 126.8075543
+  },
+  {
+    "address": "경기도 부천시 역곡1동 178-17호",
+    "latitude": 37.49076721,
+    "longitude": 126.8075543
+  },
+  {
+    "address": "경기도 부천시 역곡1동 178-17호",
+    "latitude": 37.49076721,
+    "longitude": 126.8075543
+  },
+  {
+    "address": "경기도 부천시 역곡1동 178-3",
+    "latitude": 37.49142074,
+    "longitude": 126.8082944
+  },
+  {
+    "address": "경기도 부천시 역곡1동 185",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 187-2",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 201-12",
+    "latitude": 37.4888202,
+    "longitude": 126.8137828
+  },
+  {
+    "address": "경기도 부천시 역곡1동 201-14",
+    "latitude": 37.488737,
+    "longitude": 126.8135885
+  },
+  {
+    "address": "경기도 부천시 역곡1동 201-5",
+    "latitude": 37.48925391,
+    "longitude": 126.8145642
+  },
+  {
+    "address": "경기도 부천시 역곡1동 201-6",
+    "latitude": 37.48913176,
+    "longitude": 126.8148087
+  },
+  {
+    "address": "경기도 부천시 역곡1동 201-7번지",
+    "latitude": 37.48909911,
+    "longitude": 126.8146686
+  },
+  {
+    "address": "경기도 부천시 역곡1동 201-9",
+    "latitude": 37.48902295,
+    "longitude": 126.8143658
+  },
+  {
+    "address": "경기도 부천시 역곡1동 202",
+    "latitude": 37.48918379,
+    "longitude": 126.8135151
+  },
+  {
+    "address": "경기도 부천시 역곡1동 203-11",
+    "latitude": 37.49038637,
+    "longitude": 126.8127793
+  },
+  {
+    "address": "경기도 부천시 역곡1동 203-15",
+    "latitude": 37.49029329,
+    "longitude": 126.8131776
+  },
+  {
+    "address": "경기도 부천시 역곡1동 203-17",
+    "latitude": 37.49049121,
+    "longitude": 126.8129871
+  },
+  {
+    "address": "경기도 부천시 역곡1동 203-21",
+    "latitude": 37.49118987,
+    "longitude": 126.8126552
+  },
+  {
+    "address": "경기도 부천시 역곡1동 203-21",
+    "latitude": 37.49118987,
+    "longitude": 126.8126552
+  },
+  {
+    "address": "경기도 부천시 역곡1동 203-21",
+    "latitude": 37.49118987,
+    "longitude": 126.8126552
+  },
+  {
+    "address": "경기도 부천시 역곡1동 204",
+    "latitude": 37.49109736,
+    "longitude": 126.8134108
+  },
+  {
+    "address": "경기도 부천시 역곡1동 204",
+    "latitude": 37.49109736,
+    "longitude": 126.8134108
+  },
+  {
+    "address": "경기도 부천시 역곡1동 206",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 213-10",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 213-12",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 213-14",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 213-14",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 213-18",
+    "latitude": 37.48989997,
+    "longitude": 126.8151596
+  },
+  {
+    "address": "경기도 부천시 역곡1동 213-2",
+    "latitude": 37.49108073,
+    "longitude": 126.8142928
+  },
+  {
+    "address": "경기도 부천시 역곡1동 213-24",
+    "latitude": 37.49066014,
+    "longitude": 126.8149814
+  },
+  {
+    "address": "경기도 부천시 역곡1동 213-25",
+    "latitude": 37.49005785,
+    "longitude": 126.814716
+  },
+  {
+    "address": "경기도 부천시 역곡1동 213-25",
+    "latitude": 37.49005785,
+    "longitude": 126.814716
+  },
+  {
+    "address": "경기도 부천시 역곡1동 213-25",
+    "latitude": 37.49005785,
+    "longitude": 126.814716
+  },
+  {
+    "address": "경기도 부천시 역곡1동 213-29",
+    "latitude": 37.49005785,
+    "longitude": 126.814716
+  },
+  {
+    "address": "경기도 부천시 역곡1동 213-30",
+    "latitude": 37.49005785,
+    "longitude": 126.814716
+  },
+  {
+    "address": "경기도 부천시 역곡1동 213-36",
+    "latitude": 37.49060221,
+    "longitude": 126.8148142
+  },
+  {
+    "address": "경기도 부천시 역곡1동 213-36번지",
+    "latitude": 37.49060221,
+    "longitude": 126.8148142
+  },
+  {
+    "address": "경기도 부천시 역곡1동 213-7",
+    "latitude": 37.49038347,
+    "longitude": 126.8155203
+  },
+  {
+    "address": "경기도 부천시 역곡1동 213-8",
+    "latitude": 37.49038347,
+    "longitude": 126.8155203
+  },
+  {
+    "address": "경기도 부천시 역곡1동 213-9",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 214",
+    "latitude": 37.48936264,
+    "longitude": 126.8149529
+  },
+  {
+    "address": "경기도 부천시 역곡1동 214-10",
+    "latitude": 37.48921141,
+    "longitude": 126.8150392
+  },
+  {
+    "address": "경기도 부천시 역곡1동 214-6",
+    "latitude": 37.48942875,
+    "longitude": 126.8157397
+  },
+  {
+    "address": "경기도 부천시 역곡1동 219-1",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 220",
+    "latitude": 37.48831844,
+    "longitude": 126.8155661
+  },
+  {
+    "address": "경기도 부천시 역곡1동 220-4",
+    "latitude": 37.4883837,
+    "longitude": 126.8158147
+  },
+  {
+    "address": "경기도 부천시 역곡1동 220-5",
+    "latitude": 37.48851389,
+    "longitude": 126.8161038
+  },
+  {
+    "address": "경기도 부천시 역곡1동 220-6",
+    "latitude": 37.48863339,
+    "longitude": 126.8164653
+  },
+  {
+    "address": "경기도 부천시 역곡1동 221-1",
+    "latitude": 37.48766292,
+    "longitude": 126.8158345
+  },
+  {
+    "address": "경기도 부천시 역곡1동 221-10",
+    "latitude": 37.48795242,
+    "longitude": 126.8165937
+  },
+  {
+    "address": "경기도 부천시 역곡1동 221-10번지",
+    "latitude": 37.48795242,
+    "longitude": 126.8165937
+  },
+  {
+    "address": "경기도 부천시 역곡1동 221-12",
+    "latitude": 37.48803558,
+    "longitude": 126.8167608
+  },
+  {
+    "address": "경기도 부천시 역곡1동 221-15",
+    "latitude": 37.4876456,
+    "longitude": 126.8162823
+  },
+  {
+    "address": "경기도 부천시 역곡1동 221-26 번지",
+    "latitude": 37.48752966,
+    "longitude": 126.8158937
+  },
+  {
+    "address": "경기도 부천시 역곡1동 221-27",
+    "latitude": 37.48751552,
+    "longitude": 126.8160656
+  },
+  {
+    "address": "경기도 부천시 역곡1동 224-14",
+    "latitude": 37.4886675,
+    "longitude": 126.8175462
+  },
+  {
+    "address": "경기도 부천시 역곡1동 224-17",
+    "latitude": 37.48833533,
+    "longitude": 126.8171581
+  },
+  {
+    "address": "경기도 부천시 역곡1동 224-19",
+    "latitude": 37.48868115,
+    "longitude": 126.8170532
+  },
+  {
+    "address": "경기도 부천시 역곡1동 224-4번지",
+    "latitude": 37.48824504,
+    "longitude": 126.8170362
+  },
+  {
+    "address": "경기도 부천시 역곡1동 225-13",
+    "latitude": 37.48929355,
+    "longitude": 126.8168708
+  },
+  {
+    "address": "경기도 부천시 역곡1동 225-2",
+    "latitude": 37.48937208,
+    "longitude": 126.8163821
+  },
+  {
+    "address": "경기도 부천시 역곡1동 225-27",
+    "latitude": 37.48959897,
+    "longitude": 126.8162775
+  },
+  {
+    "address": "경기도 부천시 역곡1동 225-3",
+    "latitude": 37.48904803,
+    "longitude": 126.8165819
+  },
+  {
+    "address": "경기도 부천시 역곡1동 226-21",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 226-5",
+    "latitude": 37.49012124,
+    "longitude": 126.8160727
+  },
+  {
+    "address": "경기도 부천시 역곡1동 226번지",
+    "latitude": 37.49084505,
+    "longitude": 126.8156865
+  },
+  {
+    "address": "경기도 부천시 역곡1동 227",
+    "latitude": 37.49056958,
+    "longitude": 126.8170034
+  },
+  {
+    "address": "경기도 부천시 역곡1동 227",
+    "latitude": 37.49056958,
+    "longitude": 126.8170034
+  },
+  {
+    "address": "경기도 부천시 역곡1동 227",
+    "latitude": 37.49056958,
+    "longitude": 126.8170034
+  },
+  {
+    "address": "경기도 부천시 역곡1동 227",
+    "latitude": 37.49056958,
+    "longitude": 126.8170034
+  },
+  {
+    "address": "경기도 부천시 역곡1동 227",
+    "latitude": 37.49056958,
+    "longitude": 126.8170034
+  },
+  {
+    "address": "경기도 부천시 역곡1동 227",
+    "latitude": 37.49056958,
+    "longitude": 126.8170034
+  },
+  {
+    "address": "경기도 부천시 역곡1동 227-1",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 24-10",
+    "latitude": 37.49095813,
+    "longitude": 126.8165592
+  },
+  {
+    "address": "경기도 부천시 역곡1동 241-5",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 24-15",
+    "latitude": 37.49190014,
+    "longitude": 126.8151185
+  },
+  {
+    "address": "경기도 부천시 역곡1동 24-17",
+    "latitude": 37.49195168,
+    "longitude": 126.815815
+  },
+  {
+    "address": "경기도 부천시 역곡1동 24-18",
+    "latitude": 37.49204931,
+    "longitude": 126.8160228
+  },
+  {
+    "address": "경기도 부천시 역곡1동 24-19",
+    "latitude": 37.49222224,
+    "longitude": 126.8159816
+  },
+  {
+    "address": "경기도 부천시 역곡1동 24-20",
+    "latitude": 37.49214946,
+    "longitude": 126.8155295
+  },
+  {
+    "address": "경기도 부천시 역곡1동 24-21",
+    "latitude": 37.49244135,
+    "longitude": 126.8155062
+  },
+  {
+    "address": "경기도 부천시 역곡1동 24-25",
+    "latitude": 37.49293393,
+    "longitude": 126.8147586
+  },
+  {
+    "address": "경기도 부천시 역곡1동 24-25",
+    "latitude": 37.49293393,
+    "longitude": 126.8147586
+  },
+  {
+    "address": "경기도 부천시 역곡1동 24-25번지",
+    "latitude": 37.49293393,
+    "longitude": 126.8147586
+  },
+  {
+    "address": "경기도 부천시 역곡1동 24-3",
+    "latitude": 37.49130242,
+    "longitude": 126.8177931
+  },
+  {
+    "address": "경기도 부천시 역곡1동 243-16",
+    "latitude": 37.49053139,
+    "longitude": 126.8179443
+  },
+  {
+    "address": "경기도 부천시 역곡1동 243-2",
+    "latitude": 37.49073717,
+    "longitude": 126.8181699
+  },
+  {
+    "address": "경기도 부천시 역곡1동 24-32",
+    "latitude": 37.49126416,
+    "longitude": 126.8163594
+  },
+  {
+    "address": "경기도 부천시 역곡1동 243-20",
+    "latitude": 37.49012806,
+    "longitude": 126.8181488
+  },
+  {
+    "address": "경기도 부천시 역곡1동 243-22",
+    "latitude": 37.4898436,
+    "longitude": 126.8183168
+  },
+  {
+    "address": "경기도 부천시 역곡1동 243-26",
+    "latitude": 37.49012783,
+    "longitude": 126.818004
+  },
+  {
+    "address": "경기도 부천시 역곡1동 243-27",
+    "latitude": 37.49023946,
+    "longitude": 126.8179404
+  },
+  {
+    "address": "경기도 부천시 역곡1동 243-30",
+    "latitude": 37.49059237,
+    "longitude": 126.8177587
+  },
+  {
+    "address": "경기도 부천시 역곡1동 243-36번지",
+    "latitude": 37.49100647,
+    "longitude": 126.8175225
+  },
+  {
+    "address": "경기도 부천시 역곡1동 243-40",
+    "latitude": 37.49106483,
+    "longitude": 126.8179701
+  },
+  {
+    "address": "경기도 부천시 역곡1동 243-5",
+    "latitude": 37.49026545,
+    "longitude": 126.8184334
+  },
+  {
+    "address": "경기도 부천시 역곡1동 24-35",
+    "latitude": 37.49208355,
+    "longitude": 126.8148693
+  },
+  {
+    "address": "경기도 부천시 역곡1동 243-8",
+    "latitude": 37.48998096,
+    "longitude": 126.8185833
+  },
+  {
+    "address": "경기도 부천시 역곡1동 24-38",
+    "latitude": 37.49251242,
+    "longitude": 126.8148592
+  },
+  {
+    "address": "경기도 부천시 역곡1동 244",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 24-45",
+    "latitude": 37.49144494,
+    "longitude": 126.8167344
+  },
+  {
+    "address": "경기도 부천시 역곡1동 245-12",
+    "latitude": 37.49113065,
+    "longitude": 126.8185851
+  },
+  {
+    "address": "경기도 부천시 역곡1동 245-14",
+    "latitude": 37.49121027,
+    "longitude": 126.8188065
+  },
+  {
+    "address": "경기도 부천시 역곡1동 24-56",
+    "latitude": 37.49222283,
+    "longitude": 126.8163571
+  },
+  {
+    "address": "경기도 부천시 역곡1동 24-57",
+    "latitude": 37.49228218,
+    "longitude": 126.8151266
+  },
+  {
+    "address": "경기도 부천시 역곡1동 246-1",
+    "latitude": 37.4903848,
+    "longitude": 126.818709
+  },
+  {
+    "address": "경기도 부천시 역곡1동 246-12 번지",
+    "latitude": 37.49064155,
+    "longitude": 126.8192692
+  },
+  {
+    "address": "경기도 부천시 역곡1동 246-21",
+    "latitude": 37.49077414,
+    "longitude": 126.8187759
+  },
+  {
+    "address": "경기도 부천시 역곡1동 246-3",
+    "latitude": 37.49020145,
+    "longitude": 126.8190034
+  },
+  {
+    "address": "경기도 부천시 역곡1동 246-4",
+    "latitude": 37.49049342,
+    "longitude": 126.8190299
+  },
+  {
+    "address": "경기도 부천시 역곡1동 246-7",
+    "latitude": 37.49081038,
+    "longitude": 126.818907
+  },
+  {
+    "address": "경기도 부천시 역곡1동 24-72",
+    "latitude": 37.49280822,
+    "longitude": 126.8150349
+  },
+  {
+    "address": "경기도 부천시 역곡1동 24-76번지",
+    "latitude": 37.49166704,
+    "longitude": 126.8158609
+  },
+  {
+    "address": "경기도 부천시 역곡1동 24-8",
+    "latitude": 37.49194586,
+    "longitude": 126.816706
+  },
+  {
+    "address": "경기도 부천시 역곡1동 24-8",
+    "latitude": 37.49194586,
+    "longitude": 126.816706
+  },
+  {
+    "address": "경기도 부천시 역곡1동 272-1",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 273",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 273-1",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 274-1",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 400 번지",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 400-2",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 4-6",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 51-4",
+    "latitude": 37.4852781,
+    "longitude": 126.8074463
+  },
+  {
+    "address": "경기도 부천시 역곡1동 65-18",
+    "latitude": 37.48988514,
+    "longitude": 126.8081174
+  },
+  {
+    "address": "경기도 부천시 역곡1동 65-6",
+    "latitude": 37.4903834,
+    "longitude": 126.808677
+  },
+  {
+    "address": "경기도 부천시 역곡1동 81-1",
+    "latitude": 37.48610477,
+    "longitude": 126.8127674
+  },
+  {
+    "address": "경기도 부천시 역곡1동 81-1",
+    "latitude": 37.48610477,
+    "longitude": 126.8127674
+  },
+  {
+    "address": "경기도 부천시 역곡1동 81-12",
+    "latitude": 37.48596105,
+    "longitude": 126.8130482
+  },
+  {
+    "address": "경기도 부천시 역곡1동 81-4",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 81-6호",
+    "latitude": 37.48567855,
+    "longitude": 126.812176
+  },
+  {
+    "address": "경기도 부천시 역곡1동 8-17",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 82",
+    "latitude": 37.48644885,
+    "longitude": 126.8115725
+  },
+  {
+    "address": "경기도 부천시 역곡1동 8-2",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 82-2",
+    "latitude": 37.48646008,
+    "longitude": 126.8118348
+  },
+  {
+    "address": "경기도 부천시 역곡1동 82-4",
+    "latitude": 37.48670605,
+    "longitude": 126.812395
+  },
+  {
+    "address": "경기도 부천시 역곡1동 82-4",
+    "latitude": 37.48670605,
+    "longitude": 126.812395
+  },
+  {
+    "address": "경기도 부천시 역곡1동 83-21",
+    "latitude": 37.48682817,
+    "longitude": 126.8121369
+  },
+  {
+    "address": "경기도 부천시 역곡1동 83-4",
+    "latitude": 37.48715974,
+    "longitude": 126.8121361
+  },
+  {
+    "address": "경기도 부천시 역곡1동 83-5",
+    "latitude": 37.48724653,
+    "longitude": 126.8123213
+  },
+  {
+    "address": "경기도 부천시 역곡1동 83-5",
+    "latitude": 37.48724653,
+    "longitude": 126.8123213
+  },
+  {
+    "address": "경기도 부천시 역곡1동 83-7",
+    "latitude": 37.48694408,
+    "longitude": 126.812503
+  },
+  {
+    "address": "경기도 부천시 역곡1동 84-11",
+    "latitude": 37.4873283,
+    "longitude": 126.811611
+  },
+  {
+    "address": "경기도 부천시 역곡1동 84-13",
+    "latitude": 37.48715468,
+    "longitude": 126.811218
+  },
+  {
+    "address": "경기도 부천시 역곡1동 84-4",
+    "latitude": 37.48778665,
+    "longitude": 126.8120169
+  },
+  {
+    "address": "경기도 부천시 역곡1동 84-6",
+    "latitude": 37.48766067,
+    "longitude": 126.8121168
+  },
+  {
+    "address": "경기도 부천시 역곡1동 84-8",
+    "latitude": 37.48744806,
+    "longitude": 126.8121354
+  },
+  {
+    "address": "경기도 부천시 역곡1동 84-8",
+    "latitude": 37.48744806,
+    "longitude": 126.8121354
+  },
+  {
+    "address": "경기도 부천시 역곡1동 85-3",
+    "latitude": 37.48765168,
+    "longitude": 126.8109996
+  },
+  {
+    "address": "경기도 부천시 역곡1동 85-4",
+    "latitude": 37.48771683,
+    "longitude": 126.8111713
+  },
+  {
+    "address": "경기도 부천시 역곡1동 85-6",
+    "latitude": 37.48802794,
+    "longitude": 126.8119033
+  },
+  {
+    "address": "경기도 부천시 역곡1동 85-7",
+    "latitude": 37.48822923,
+    "longitude": 126.8115681
+  },
+  {
+    "address": "경기도 부천시 역곡1동 85-7",
+    "latitude": 37.48822923,
+    "longitude": 126.8115681
+  },
+  {
+    "address": "경기도 부천시 역곡1동 85-7",
+    "latitude": 37.48822923,
+    "longitude": 126.8115681
+  },
+  {
+    "address": "경기도 부천시 역곡1동 9-16",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 97",
+    "latitude": 37.48930605,
+    "longitude": 126.8110724
+  },
+  {
+    "address": "경기도 부천시 역곡1동 97",
+    "latitude": 37.48930605,
+    "longitude": 126.8110724
+  },
+  {
+    "address": "경기도 부천시 역곡1동 97-16",
+    "latitude": 37.48913355,
+    "longitude": 126.8113849
+  },
+  {
+    "address": "경기도 부천시 역곡1동 97-4",
+    "latitude": 37.48877344,
+    "longitude": 126.8115667
+  },
+  {
+    "address": "경기도 부천시 역곡1동 97-8",
+    "latitude": 37.4890391,
+    "longitude": 126.8109147
+  },
+  {
+    "address": "경기도 부천시 역곡1동 98-1",
+    "latitude": 37.49039731,
+    "longitude": 126.8105992
+  },
+  {
+    "address": "경기도 부천시 역곡1동 98-14",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 98-17",
+    "latitude": 37.48961606,
+    "longitude": 126.8111168
+  },
+  {
+    "address": "경기도 부천시 역곡1동 98-6",
+    "latitude": 37.48979251,
+    "longitude": 126.8110214
+  },
+  {
+    "address": "경기도 부천시 역곡1동 98-9",
+    "latitude": 37.48949286,
+    "longitude": 126.810701
+  },
+  {
+    "address": "경기도 부천시 역곡1동 99",
+    "latitude": 37.49020531,
+    "longitude": 126.8099846
+  },
+  {
+    "address": "경기도 부천시 역곡1동 99-1",
+    "latitude": 37.48997523,
+    "longitude": 126.8101231
+  },
+  {
+    "address": "경기도 부천시 역곡1동 99-1",
+    "latitude": 37.48997523,
+    "longitude": 126.8101231
+  },
+  {
+    "address": "경기도 부천시 역곡1동 99-10",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡1동 99-17",
+    "latitude": 37.48941321,
+    "longitude": 126.8104751
+  },
+  {
+    "address": "경기도 부천시 역곡1동 산 14번지",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 100-3",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 117",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 122-1",
+    "latitude": 37.49341619,
+    "longitude": 126.8097955
+  },
+  {
+    "address": "경기도 부천시 역곡2동 176",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 178-17번지",
+    "latitude": 37.49076721,
+    "longitude": 126.8075543
+  },
+  {
+    "address": "경기도 부천시 역곡2동 18",
+    "latitude": 37.48436349,
+    "longitude": 126.7992762
+  },
+  {
+    "address": "경기도 부천시 역곡2동 18-24",
+    "latitude": 37.48419811,
+    "longitude": 126.7995118
+  },
+  {
+    "address": "경기도 부천시 역곡2동 19-10",
+    "latitude": 37.48329796,
+    "longitude": 126.8000162
+  },
+  {
+    "address": "경기도 부천시 역곡2동 19-15",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 19-16",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 19-16",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 19-16",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 19-18",
+    "latitude": 37.48303792,
+    "longitude": 126.7996958
+  },
+  {
+    "address": "경기도 부천시 역곡2동 19-21호",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 19-5",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 20-10번지",
+    "latitude": 37.48312273,
+    "longitude": 126.8008262
+  },
+  {
+    "address": "경기도 부천시 역곡2동 20-18",
+    "latitude": 37.48309111,
+    "longitude": 126.8013148
+  },
+  {
+    "address": "경기도 부천시 역곡2동 20-20",
+    "latitude": 37.48292229,
+    "longitude": 126.8016544
+  },
+  {
+    "address": "경기도 부천시 역곡2동 20-22",
+    "latitude": 37.48287132,
+    "longitude": 126.801347
+  },
+  {
+    "address": "경기도 부천시 역곡2동 20-25",
+    "latitude": 37.48293177,
+    "longitude": 126.8008584
+  },
+  {
+    "address": "경기도 부천시 역곡2동 20-27",
+    "latitude": 37.48297806,
+    "longitude": 126.8005236
+  },
+  {
+    "address": "경기도 부천시 역곡2동 20-27",
+    "latitude": 37.48297806,
+    "longitude": 126.8005236
+  },
+  {
+    "address": "경기도 부천시 역곡2동 20-38",
+    "latitude": 37.48279613,
+    "longitude": 126.8016412
+  },
+  {
+    "address": "경기도 부천시 역곡2동 20-43",
+    "latitude": 37.48322083,
+    "longitude": 126.8012963
+  },
+  {
+    "address": "경기도 부천시 역곡2동 20-7",
+    "latitude": 37.48333849,
+    "longitude": 126.8005453
+  },
+  {
+    "address": "경기도 부천시 역곡2동 21-2",
+    "latitude": 37.48365394,
+    "longitude": 126.8016706
+  },
+  {
+    "address": "경기도 부천시 역곡2동 21-6",
+    "latitude": 37.48384858,
+    "longitude": 126.8016836
+  },
+  {
+    "address": "경기도 부천시 역곡2동 21번지",
+    "latitude": 37.48429827,
+    "longitude": 126.8011985
+  },
+  {
+    "address": "경기도 부천시 역곡2동 21번지",
+    "latitude": 37.48429827,
+    "longitude": 126.8011985
+  },
+  {
+    "address": "경기도 부천시 역곡2동 21번지",
+    "latitude": 37.48429827,
+    "longitude": 126.8011985
+  },
+  {
+    "address": "경기도 부천시 역곡2동 22",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 22-1",
+    "latitude": 37.48344575,
+    "longitude": 126.8021731
+  },
+  {
+    "address": "경기도 부천시 역곡2동 22번지",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 23",
+    "latitude": 37.48423241,
+    "longitude": 126.8027635
+  },
+  {
+    "address": "경기도 부천시 역곡2동 23-1번지",
+    "latitude": 37.48344069,
+    "longitude": 126.8034621
+  },
+  {
+    "address": "경기도 부천시 역곡2동 23-1번지",
+    "latitude": 37.48344069,
+    "longitude": 126.8034621
+  },
+  {
+    "address": "경기도 부천시 역곡2동 23-1번지",
+    "latitude": 37.48420056,
+    "longitude": 126.8031118
+  },
+  {
+    "address": "경기도 부천시 역곡2동 23-2 번지",
+    "latitude": 37.48411342,
+    "longitude": 126.8027276
+  },
+  {
+    "address": "경기도 부천시 역곡2동 23번지",
+    "latitude": 37.48423241,
+    "longitude": 126.8027635
+  },
+  {
+    "address": "경기도 부천시 역곡2동 25-18",
+    "latitude": 37.4827544,
+    "longitude": 126.8025458
+  },
+  {
+    "address": "경기도 부천시 역곡2동 25-19",
+    "latitude": 37.48290215,
+    "longitude": 126.8025364
+  },
+  {
+    "address": "경기도 부천시 역곡2동 25-22",
+    "latitude": 37.48309696,
+    "longitude": 126.8026534
+  },
+  {
+    "address": "경기도 부천시 역곡2동 25-26번지",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 25-27",
+    "latitude": 37.48277661,
+    "longitude": 126.8028985
+  },
+  {
+    "address": "경기도 부천시 역곡2동 25-32",
+    "latitude": 37.48309474,
+    "longitude": 126.8034856
+  },
+  {
+    "address": "경기도 부천시 역곡2동 25-34",
+    "latitude": 37.4828129,
+    "longitude": 126.8030476
+  },
+  {
+    "address": "경기도 부천시 역곡2동 255-1",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 25-6",
+    "latitude": 37.48285817,
+    "longitude": 126.8021023
+  },
+  {
+    "address": "경기도 부천시 역곡2동 257-3",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 257-3",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 26",
+    "latitude": 37.48321101,
+    "longitude": 126.8040506
+  },
+  {
+    "address": "경기도 부천시 역곡2동 26-3",
+    "latitude": 37.48358409,
+    "longitude": 126.8051758
+  },
+  {
+    "address": "경기도 부천시 역곡2동 26-4",
+    "latitude": 37.48338961,
+    "longitude": 126.8052622
+  },
+  {
+    "address": "경기도 부천시 역곡2동 26-4",
+    "latitude": 37.48338961,
+    "longitude": 126.8052622
+  },
+  {
+    "address": "경기도 부천시 역곡2동 26-5",
+    "latitude": 37.48324827,
+    "longitude": 126.8047877
+  },
+  {
+    "address": "경기도 부천시 역곡2동 26-6",
+    "latitude": 37.48321101,
+    "longitude": 126.8040506
+  },
+  {
+    "address": "경기도 부천시 역곡2동 26-8",
+    "latitude": 37.48328694,
+    "longitude": 126.8041996
+  },
+  {
+    "address": "경기도 부천시 역곡2동 27-1",
+    "latitude": 37.48482539,
+    "longitude": 126.8039152
+  },
+  {
+    "address": "경기도 부천시 역곡2동 27-102",
+    "latitude": 37.48359675,
+    "longitude": 126.8041174
+  },
+  {
+    "address": "경기도 부천시 역곡2동 27-16",
+    "latitude": 37.48399645,
+    "longitude": 126.8039084
+  },
+  {
+    "address": "경기도 부천시 역곡2동 27-19",
+    "latitude": 37.48421397,
+    "longitude": 126.8046766
+  },
+  {
+    "address": "경기도 부천시 역곡2동 27-19",
+    "latitude": 37.48421397,
+    "longitude": 126.8046766
+  },
+  {
+    "address": "경기도 부천시 역곡2동 27-2",
+    "latitude": 37.48484822,
+    "longitude": 126.8046433
+  },
+  {
+    "address": "경기도 부천시 역곡2동 27-24",
+    "latitude": 37.48398966,
+    "longitude": 126.8041571
+  },
+  {
+    "address": "경기도 부천시 역곡2동 27-29",
+    "latitude": 37.48484421,
+    "longitude": 126.8043946
+  },
+  {
+    "address": "경기도 부천시 역곡2동 27-3",
+    "latitude": 37.48471167,
+    "longitude": 126.8048834
+  },
+  {
+    "address": "경기도 부천시 역곡2동 27-38",
+    "latitude": 37.48394441,
+    "longitude": 126.8051251
+  },
+  {
+    "address": "경기도 부천시 역곡2동 27-48",
+    "latitude": 37.48398966,
+    "longitude": 126.8041571
+  },
+  {
+    "address": "경기도 부천시 역곡2동 27-48",
+    "latitude": 37.48398966,
+    "longitude": 126.8041571
+  },
+  {
+    "address": "경기도 부천시 역곡2동 27-56",
+    "latitude": 37.48442699,
+    "longitude": 126.8049113
+  },
+  {
+    "address": "경기도 부천시 역곡2동 27-56",
+    "latitude": 37.48442699,
+    "longitude": 126.8049113
+  },
+  {
+    "address": "경기도 부천시 역곡2동 27-60",
+    "latitude": 37.48470376,
+    "longitude": 126.8044628
+  },
+  {
+    "address": "경기도 부천시 역곡2동 27-62",
+    "latitude": 37.4846961,
+    "longitude": 126.8041914
+  },
+  {
+    "address": "경기도 부천시 역곡2동 27-7",
+    "latitude": 37.4847851,
+    "longitude": 126.8035264
+  },
+  {
+    "address": "경기도 부천시 역곡2동 27-72",
+    "latitude": 37.48449474,
+    "longitude": 126.8044679
+  },
+  {
+    "address": "경기도 부천시 역곡2동 27-74",
+    "latitude": 37.48442962,
+    "longitude": 126.8043233
+  },
+  {
+    "address": "경기도 부천시 역곡2동 27-75",
+    "latitude": 37.48432151,
+    "longitude": 126.8043281
+  },
+  {
+    "address": "경기도 부천시 역곡2동 27-79",
+    "latitude": 37.48468483,
+    "longitude": 126.8039111
+  },
+  {
+    "address": "경기도 부천시 역곡2동 27-82",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 28-11",
+    "latitude": 37.48552507,
+    "longitude": 126.8042164
+  },
+  {
+    "address": "경기도 부천시 역곡2동 29-18",
+    "latitude": 37.48627529,
+    "longitude": 126.8045672
+  },
+  {
+    "address": "경기도 부천시 역곡2동 29-19",
+    "latitude": 37.48619265,
+    "longitude": 126.8047167
+  },
+  {
+    "address": "경기도 부천시 역곡2동 304번",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 304번지",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 304번지",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 30-5",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 30-5",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 305-1번지",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 305-1번지",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 305-1번지",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 305-1번지",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 30-7",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 30-8",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 312-1번지",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 312-1번지",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 312-1번지",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 312-2",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 313-34",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 31번지",
+    "latitude": 37.48809129,
+    "longitude": 126.8043047
+  },
+  {
+    "address": "경기도 부천시 역곡2동 31번지",
+    "latitude": 37.48809129,
+    "longitude": 126.8043047
+  },
+  {
+    "address": "경기도 부천시 역곡2동 31번지",
+    "latitude": 37.48809129,
+    "longitude": 126.8043047
+  },
+  {
+    "address": "경기도 부천시 역곡2동 31번지",
+    "latitude": 37.48809129,
+    "longitude": 126.8043047
+  },
+  {
+    "address": "경기도 부천시 역곡2동 32",
+    "latitude": 37.48719149,
+    "longitude": 126.8050397
+  },
+  {
+    "address": "경기도 부천시 역곡2동 32 번지",
+    "latitude": 37.48719149,
+    "longitude": 126.8050397
+  },
+  {
+    "address": "경기도 부천시 역곡2동 32-15",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 32-2",
+    "latitude": 37.48744748,
+    "longitude": 126.8050979
+  },
+  {
+    "address": "경기도 부천시 역곡2동 32-3",
+    "latitude": 37.48760595,
+    "longitude": 126.8050341
+  },
+  {
+    "address": "경기도 부천시 역곡2동 32-9",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 32-9",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 32-9",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 32-9",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 32-9",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 33 번지",
+    "latitude": 37.487012,
+    "longitude": 126.8054699
+  },
+  {
+    "address": "경기도 부천시 역곡2동 33-2",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 33-5",
+    "latitude": 37.48660808,
+    "longitude": 126.8053081
+  },
+  {
+    "address": "경기도 부천시 역곡2동 33번지",
+    "latitude": 37.487012,
+    "longitude": 126.8054699
+  },
+  {
+    "address": "경기도 부천시 역곡2동 33번지",
+    "latitude": 37.487012,
+    "longitude": 126.8054699
+  },
+  {
+    "address": "경기도 부천시 역곡2동 33번지",
+    "latitude": 37.487012,
+    "longitude": 126.8054699
+  },
+  {
+    "address": "경기도 부천시 역곡2동 34",
+    "latitude": 37.48609951,
+    "longitude": 126.8050607
+  },
+  {
+    "address": "경기도 부천시 역곡2동 34-14",
+    "latitude": 37.48639396,
+    "longitude": 126.8065976
+  },
+  {
+    "address": "경기도 부천시 역곡2동 34-6",
+    "latitude": 37.48614065,
+    "longitude": 126.8059696
+  },
+  {
+    "address": "경기도 부천시 역곡2동 34-6",
+    "latitude": 37.48614065,
+    "longitude": 126.8059696
+  },
+  {
+    "address": "경기도 부천시 역곡2동 34-6",
+    "latitude": 37.48614065,
+    "longitude": 126.8059696
+  },
+  {
+    "address": "경기도 부천시 역곡2동 34-9",
+    "latitude": 37.48625343,
+    "longitude": 126.8066116
+  },
+  {
+    "address": "경기도 부천시 역곡2동 35-1호",
+    "latitude": 37.48579323,
+    "longitude": 126.8051022
+  },
+  {
+    "address": "경기도 부천시 역곡2동 35-4",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 35-5",
+    "latitude": 37.48524223,
+    "longitude": 126.8053524
+  },
+  {
+    "address": "경기도 부천시 역곡2동 35-7",
+    "latitude": 37.48543266,
+    "longitude": 126.8049991
+  },
+  {
+    "address": "경기도 부천시 역곡2동 358-10",
+    "latitude": 37.48448549,
+    "longitude": 126.8032377
+  },
+  {
+    "address": "경기도 부천시 역곡2동 36-15",
+    "latitude": 37.48534739,
+    "longitude": 126.8057456
+  },
+  {
+    "address": "경기도 부천시 역곡2동 36-17",
+    "latitude": 37.48543073,
+    "longitude": 126.8060167
+  },
+  {
+    "address": "경기도 부천시 역곡2동 36-17",
+    "latitude": 37.48543073,
+    "longitude": 126.8060167
+  },
+  {
+    "address": "경기도 부천시 역곡2동 36-19",
+    "latitude": 37.48553211,
+    "longitude": 126.8063014
+  },
+  {
+    "address": "경기도 부천시 역곡2동 36-25",
+    "latitude": 37.48579976,
+    "longitude": 126.8068796
+  },
+  {
+    "address": "경기도 부천시 역곡2동 36-9",
+    "latitude": 37.48607332,
+    "longitude": 126.8066708
+  },
+  {
+    "address": "경기도 부천시 역곡2동 36-9",
+    "latitude": 37.48607332,
+    "longitude": 126.8066708
+  },
+  {
+    "address": "경기도 부천시 역곡2동 387-12번지",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 45-16",
+    "latitude": 37.4849031,
+    "longitude": 126.8073342
+  },
+  {
+    "address": "경기도 부천시 역곡2동 45-18",
+    "latitude": 37.48519041,
+    "longitude": 126.8067138
+  },
+  {
+    "address": "경기도 부천시 역곡2동 45-20",
+    "latitude": 37.48524876,
+    "longitude": 126.8071343
+  },
+  {
+    "address": "경기도 부천시 역곡2동 45-26",
+    "latitude": 37.48551161,
+    "longitude": 126.8069889
+  },
+  {
+    "address": "경기도 부천시 역곡2동 45-6",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 45-8",
+    "latitude": 37.48468485,
+    "longitude": 126.8061091
+  },
+  {
+    "address": "경기도 부천시 역곡2동 46-12",
+    "latitude": 37.48473744,
+    "longitude": 126.8052135
+  },
+  {
+    "address": "경기도 부천시 역곡2동 46-22",
+    "latitude": 37.48438448,
+    "longitude": 126.8053546
+  },
+  {
+    "address": "경기도 부천시 역곡2동 46-6",
+    "latitude": 37.48434948,
+    "longitude": 126.8059924
+  },
+  {
+    "address": "경기도 부천시 역곡2동 46-8",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 47",
+    "latitude": 37.48371807,
+    "longitude": 126.8055598
+  },
+  {
+    "address": "경기도 부천시 역곡2동 47-10",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 47-3",
+    "latitude": 37.48375173,
+    "longitude": 126.806306
+  },
+  {
+    "address": "경기도 부천시 역곡2동 47-7",
+    "latitude": 37.48358526,
+    "longitude": 126.8058903
+  },
+  {
+    "address": "경기도 부천시 역곡2동 47-8",
+    "latitude": 37.48357426,
+    "longitude": 126.8057773
+  },
+  {
+    "address": "경기도 부천시 역곡2동 48-12",
+    "latitude": 37.48396899,
+    "longitude": 126.806925
+  },
+  {
+    "address": "경기도 부천시 역곡2동 48-12 번지",
+    "latitude": 37.48396899,
+    "longitude": 126.806925
+  },
+  {
+    "address": "경기도 부천시 역곡2동 48-2",
+    "latitude": 37.48386021,
+    "longitude": 126.8065273
+  },
+  {
+    "address": "경기도 부천시 역곡2동 48-20 번지",
+    "latitude": 37.48422249,
+    "longitude": 126.8076751
+  },
+  {
+    "address": "경기도 부천시 역곡2동 48-7",
+    "latitude": 37.4841826,
+    "longitude": 126.807526
+  },
+  {
+    "address": "경기도 부천시 역곡2동 48-9",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 49-11",
+    "latitude": 37.48440367,
+    "longitude": 126.8082762
+  },
+  {
+    "address": "경기도 부천시 역곡2동 49-13",
+    "latitude": 37.48464649,
+    "longitude": 126.8091077
+  },
+  {
+    "address": "경기도 부천시 역곡2동 49-14",
+    "latitude": 37.48454857,
+    "longitude": 126.8087326
+  },
+  {
+    "address": "경기도 부천시 역곡2동 50- 1",
+    "latitude": 37.48518836,
+    "longitude": 126.8076681
+  },
+  {
+    "address": "경기도 부천시 역곡2동 50-1",
+    "latitude": 37.48518836,
+    "longitude": 126.8076681
+  },
+  {
+    "address": "경기도 부천시 역곡2동 50-1",
+    "latitude": 37.48518836,
+    "longitude": 126.8076681
+  },
+  {
+    "address": "경기도 부천시 역곡2동 50-1",
+    "latitude": 37.48518836,
+    "longitude": 126.8076681
+  },
+  {
+    "address": "경기도 부천시 역곡2동 50-1",
+    "latitude": 37.48518836,
+    "longitude": 126.8076681
+  },
+  {
+    "address": "경기도 부천시 역곡2동 50-1",
+    "latitude": 37.48518836,
+    "longitude": 126.8076681
+  },
+  {
+    "address": "경기도 부천시 역곡2동 51-1",
+    "latitude": 37.48538973,
+    "longitude": 126.8073917
+  },
+  {
+    "address": "경기도 부천시 역곡2동 51-3",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 52-11",
+    "latitude": 37.48648515,
+    "longitude": 126.8072623
+  },
+  {
+    "address": "경기도 부천시 역곡2동 52-17",
+    "latitude": 37.48623951,
+    "longitude": 126.8069146
+  },
+  {
+    "address": "경기도 부천시 역곡2동 52-17번지",
+    "latitude": 37.48623951,
+    "longitude": 126.8069146
+  },
+  {
+    "address": "경기도 부천시 역곡2동 52-20",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 52-6",
+    "latitude": 37.48581467,
+    "longitude": 126.8071826
+  },
+  {
+    "address": "경기도 부천시 역곡2동 53-15",
+    "latitude": 37.48656184,
+    "longitude": 126.8078817
+  },
+  {
+    "address": "경기도 부천시 역곡2동 53-16",
+    "latitude": 37.48657651,
+    "longitude": 126.8080354
+  },
+  {
+    "address": "경기도 부천시 역곡2동 53-7",
+    "latitude": 37.48666203,
+    "longitude": 126.8074382
+  },
+  {
+    "address": "경기도 부천시 역곡2동 62-16",
+    "latitude": 37.48760159,
+    "longitude": 126.8067709
+  },
+  {
+    "address": "경기도 부천시 역곡2동 62-19",
+    "latitude": 37.4876133,
+    "longitude": 126.8073182
+  },
+  {
+    "address": "경기도 부천시 역곡2동 62-27",
+    "latitude": 37.48732157,
+    "longitude": 126.807441
+  },
+  {
+    "address": "경기도 부천시 역곡2동 62-38",
+    "latitude": 37.48744729,
+    "longitude": 126.8071829
+  },
+  {
+    "address": "경기도 부천시 역곡2동 62-4",
+    "latitude": 37.48742068,
+    "longitude": 126.8063372
+  },
+  {
+    "address": "경기도 부천시 역곡2동 62-41",
+    "latitude": 37.48793391,
+    "longitude": 126.8072269
+  },
+  {
+    "address": "경기도 부천시 역곡2동 62-5",
+    "latitude": 37.48769129,
+    "longitude": 126.8065219
+  },
+  {
+    "address": "경기도 부천시 역곡2동 62-54",
+    "latitude": 37.48719396,
+    "longitude": 126.8065368
+  },
+  {
+    "address": "경기도 부천시 역곡2동 62-55",
+    "latitude": 37.48694187,
+    "longitude": 126.806655
+  },
+  {
+    "address": "경기도 부천시 역곡2동 62-57",
+    "latitude": 37.4875866,
+    "longitude": 126.8064182
+  },
+  {
+    "address": "경기도 부천시 역곡2동 62-5번지",
+    "latitude": 37.48769129,
+    "longitude": 126.8065219
+  },
+  {
+    "address": "경기도 부천시 역곡2동 62-7번지",
+    "latitude": 37.48795137,
+    "longitude": 126.8068831
+  },
+  {
+    "address": "경기도 부천시 역곡2동 62-8",
+    "latitude": 37.48803447,
+    "longitude": 126.807014
+  },
+  {
+    "address": "경기도 부천시 역곡2동 65-2",
+    "latitude": 37.49015939,
+    "longitude": 126.8083293
+  },
+  {
+    "address": "경기도 부천시 역곡2동 65-7",
+    "latitude": 37.49048823,
+    "longitude": 126.8088712
+  },
+  {
+    "address": "경기도 부천시 역곡2동 65-9번지",
+    "latitude": 37.49060014,
+    "longitude": 126.808984
+  },
+  {
+    "address": "경기도 부천시 역곡2동 66-11번지",
+    "latitude": 37.48937753,
+    "longitude": 126.8084625
+  },
+  {
+    "address": "경기도 부천시 역곡2동 66-11번지",
+    "latitude": 37.48937753,
+    "longitude": 126.8084625
+  },
+  {
+    "address": "경기도 부천시 역곡2동 66-4",
+    "latitude": 37.48989736,
+    "longitude": 126.8089858
+  },
+  {
+    "address": "경기도 부천시 역곡2동 67-10",
+    "latitude": 37.48905046,
+    "longitude": 126.8090151
+  },
+  {
+    "address": "경기도 부천시 역곡2동 67-10",
+    "latitude": 37.48905046,
+    "longitude": 126.8090151
+  },
+  {
+    "address": "경기도 부천시 역곡2동 67-13호",
+    "latitude": 37.48906889,
+    "longitude": 126.8092728
+  },
+  {
+    "address": "경기도 부천시 역곡2동 67-24",
+    "latitude": 37.489093,
+    "longitude": 126.8085808
+  },
+  {
+    "address": "경기도 부천시 역곡2동 67-25",
+    "latitude": 37.48884466,
+    "longitude": 126.8087849
+  },
+  {
+    "address": "경기도 부천시 역곡2동 67-3",
+    "latitude": 37.48929173,
+    "longitude": 126.8088923
+  },
+  {
+    "address": "경기도 부천시 역곡2동 67-5",
+    "latitude": 37.48928484,
+    "longitude": 126.8090914
+  },
+  {
+    "address": "경기도 부천시 역곡2동 67-6",
+    "latitude": 37.48937514,
+    "longitude": 126.8092133
+  },
+  {
+    "address": "경기도 부천시 역곡2동 67-7번지",
+    "latitude": 37.48940827,
+    "longitude": 126.8096429
+  },
+  {
+    "address": "경기도 부천시 역곡2동 67-8",
+    "latitude": 37.48911238,
+    "longitude": 126.809422
+  },
+  {
+    "address": "경기도 부천시 역곡2동 71-1",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 71-3",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 71-9",
+    "latitude": 37.48779546,
+    "longitude": 126.8085253
+  },
+  {
+    "address": "경기도 부천시 역곡2동 71번지",
+    "latitude": 37.48831406,
+    "longitude": 126.8082888
+  },
+  {
+    "address": "경기도 부천시 역곡2동 72-9",
+    "latitude": 37.48863652,
+    "longitude": 126.8093418
+  },
+  {
+    "address": "경기도 부천시 역곡2동 72-9번지",
+    "latitude": 37.48863652,
+    "longitude": 126.8093418
+  },
+  {
+    "address": "경기도 부천시 역곡2동 7-4",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 76",
+    "latitude": 37.4862269,
+    "longitude": 126.810257
+  },
+  {
+    "address": "경기도 부천시 역곡2동 77-2번지",
+    "latitude": 37.48606181,
+    "longitude": 126.8106871
+  },
+  {
+    "address": "경기도 부천시 역곡2동 78-3",
+    "latitude": 37.48594168,
+    "longitude": 126.8099411
+  },
+  {
+    "address": "경기도 부천시 역곡2동 78번지",
+    "latitude": 37.48548232,
+    "longitude": 126.8089247
+  },
+  {
+    "address": "경기도 부천시 역곡2동 79-13",
+    "latitude": 37.48482027,
+    "longitude": 126.8096002
+  },
+  {
+    "address": "경기도 부천시 역곡2동 79-9",
+    "latitude": 37.48497605,
+    "longitude": 126.8101019
+  },
+  {
+    "address": "경기도 부천시 역곡2동 80-11",
+    "latitude": 37.48528744,
+    "longitude": 126.8110011
+  },
+  {
+    "address": "경기도 부천시 역곡2동 80-15",
+    "latitude": 37.48515342,
+    "longitude": 126.8105808
+  },
+  {
+    "address": "경기도 부천시 역곡2동 80-7",
+    "latitude": 37.48541787,
+    "longitude": 126.8114304
+  },
+  {
+    "address": "경기도 부천시 역곡2동 8-10",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 86-11번지",
+    "latitude": 37.48890108,
+    "longitude": 126.8102502
+  },
+  {
+    "address": "경기도 부천시 역곡2동 산 51-18",
+    "latitude": 37.48478106,
+    "longitude": 126.8011113
+  },
+  {
+    "address": "경기도 부천시 역곡2동 산 51-19",
+    "latitude": 37.48478106,
+    "longitude": 126.8011113
+  },
+  {
+    "address": "경기도 부천시 역곡2동 산43-4",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡2동 산51-18",
+    "latitude": 37.48478106,
+    "longitude": 126.8011113
+  },
+  {
+    "address": "경기도 부천시 역곡2동45-7번지",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡3동 100-12",
+    "latitude": 37.47851974,
+    "longitude": 126.8114161
+  },
+  {
+    "address": "경기도 부천시 역곡3동 100-15",
+    "latitude": 37.47880049,
+    "longitude": 126.8111893
+  },
+  {
+    "address": "경기도 부천시 역곡3동 100-15",
+    "latitude": 37.47880049,
+    "longitude": 126.8111893
+  },
+  {
+    "address": "경기도 부천시 역곡3동 100-23",
+    "latitude": 37.4791897,
+    "longitude": 126.8111747
+  },
+  {
+    "address": "경기도 부천시 역곡3동 100-28",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡3동 100-29",
+    "latitude": 37.48010862,
+    "longitude": 126.8111046
+  },
+  {
+    "address": "경기도 부천시 역곡3동 100-40",
+    "latitude": 37.47866395,
+    "longitude": 126.8114519
+  },
+  {
+    "address": "경기도 부천시 역곡3동 100-58",
+    "latitude": 37.47985644,
+    "longitude": 126.8111685
+  },
+  {
+    "address": "경기도 부천시 역곡3동 102-2",
+    "latitude": 37.47951307,
+    "longitude": 126.8128155
+  },
+  {
+    "address": "경기도 부천시 역곡3동 102-2(대현주택 나동 앞)",
+    "latitude": 37.47951307,
+    "longitude": 126.8128155
+  },
+  {
+    "address": "경기도 부천시 역곡3동 102-20",
+    "latitude": 37.47895729,
+    "longitude": 126.8123375
+  },
+  {
+    "address": "경기도 부천시 역곡3동 102-20(앞)",
+    "latitude": 37.47895729,
+    "longitude": 126.8123375
+  },
+  {
+    "address": "경기도 부천시 역곡3동 103",
+    "latitude": 37.48009557,
+    "longitude": 126.8119639
+  },
+  {
+    "address": "경기도 부천시 역곡3동 103",
+    "latitude": 37.48009557,
+    "longitude": 126.8119639
+  },
+  {
+    "address": "경기도 부천시 역곡3동 103 (224-4)",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡3동 103 (224-4)",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡3동 103 (224-4)",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡3동 104-4(우)",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡3동 104-4(좌)",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡3동 105",
+    "latitude": 37.48173856,
+    "longitude": 126.8116839
+  },
+  {
+    "address": "경기도 부천시 역곡3동 105-2",
+    "latitude": 37.48193006,
+    "longitude": 126.8119864
+  },
+  {
+    "address": "경기도 부천시 역곡3동 105-2",
+    "latitude": 37.48193006,
+    "longitude": 126.8119864
+  },
+  {
+    "address": "경기도 부천시 역곡3동 105-2",
+    "latitude": 37.48193006,
+    "longitude": 126.8119864
+  },
+  {
+    "address": "경기도 부천시 역곡3동 105-2",
+    "latitude": 37.48193006,
+    "longitude": 126.8119864
+  },
+  {
+    "address": "경기도 부천시 역곡3동 105-2 (105)",
+    "latitude": 37.48193006,
+    "longitude": 126.8119864
+  },
+  {
+    "address": "경기도 부천시 역곡3동 105-3",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡3동 105-3",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡3동 105-3 앞(역곡남부시장)",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡3동 105-4",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡3동 106",
+    "latitude": 37.48149935,
+    "longitude": 126.8108388
+  },
+  {
+    "address": "경기도 부천시 역곡3동 106-1",
+    "latitude": 37.48052728,
+    "longitude": 126.8114789
+  },
+  {
+    "address": "경기도 부천시 역곡3동 106-1",
+    "latitude": 37.48052728,
+    "longitude": 126.8114789
+  },
+  {
+    "address": "경기도 부천시 역곡3동 106-1",
+    "latitude": 37.48052728,
+    "longitude": 126.8114789
+  },
+  {
+    "address": "경기도 부천시 역곡3동 106-1",
+    "latitude": 37.48052728,
+    "longitude": 126.8114789
+  },
+  {
+    "address": "경기도 부천시 역곡3동 106-5",
+    "latitude": 37.48121118,
+    "longitude": 126.8109345
+  },
+  {
+    "address": "경기도 부천시 역곡3동 107-13",
+    "latitude": 37.48176536,
+    "longitude": 126.8104085
+  },
+  {
+    "address": "경기도 부천시 역곡3동 107-7",
+    "latitude": 37.48240461,
+    "longitude": 126.8112435
+  },
+  {
+    "address": "경기도 부천시 역곡3동 107-8",
+    "latitude": 37.48253122,
+    "longitude": 126.8115372
+  },
+  {
+    "address": "경기도 부천시 역곡3동 107-8",
+    "latitude": 37.48253122,
+    "longitude": 126.8115372
+  },
+  {
+    "address": "경기도 부천시 역곡3동 107-9",
+    "latitude": 37.48226123,
+    "longitude": 126.8117368
+  },
+  {
+    "address": "경기도 부천시 역곡3동 107-9 앞 (역곡남부시장)",
+    "latitude": 37.48226123,
+    "longitude": 126.8117368
+  },
+  {
+    "address": "경기도 부천시 역곡3동 108-10 (건물)",
+    "latitude": 37.48247889,
+    "longitude": 126.810366
+  },
+  {
+    "address": "경기도 부천시 역곡3동 108-12",
+    "latitude": 37.48226239,
+    "longitude": 126.8102082
+  },
+  {
+    "address": "경기도 부천시 역곡3동 108-16",
+    "latitude": 37.48249748,
+    "longitude": 126.8107232
+  },
+  {
+    "address": "경기도 부천시 역곡3동 108-5 앞 (역곡남부시장)",
+    "latitude": 37.48299925,
+    "longitude": 126.8112284
+  },
+  {
+    "address": "경기도 부천시 역곡3동 108-6",
+    "latitude": 37.48272904,
+    "longitude": 126.8112879
+  },
+  {
+    "address": "경기도 부천시 역곡3동 109-20",
+    "latitude": 37.48275916,
+    "longitude": 126.8098452
+  },
+  {
+    "address": "경기도 부천시 역곡3동 109-8",
+    "latitude": 37.48344575,
+    "longitude": 126.8109786
+  },
+  {
+    "address": "경기도 부천시 역곡3동 112",
+    "latitude": 37.48397949,
+    "longitude": 126.8089511
+  },
+  {
+    "address": "경기도 부천시 역곡3동 112-11",
+    "latitude": 37.48436688,
+    "longitude": 126.8100446
+  },
+  {
+    "address": "경기도 부천시 역곡3동 112-11",
+    "latitude": 37.48436688,
+    "longitude": 126.8100446
+  },
+  {
+    "address": "경기도 부천시 역곡3동 112-11(철길)",
+    "latitude": 37.48436688,
+    "longitude": 126.8100446
+  },
+  {
+    "address": "경기도 부천시 역곡3동 112-2",
+    "latitude": 37.48408084,
+    "longitude": 126.8092222
+  },
+  {
+    "address": "경기도 부천시 역곡3동 112-26",
+    "latitude": 37.48378888,
+    "longitude": 126.8092049
+  },
+  {
+    "address": "경기도 부천시 역곡3동 112-28",
+    "latitude": 37.48443564,
+    "longitude": 126.8102208
+  },
+  {
+    "address": "경기도 부천시 역곡3동 112-8",
+    "latitude": 37.48402353,
+    "longitude": 126.809444
+  },
+  {
+    "address": "경기도 부천시 역곡3동 112-9",
+    "latitude": 37.48419307,
+    "longitude": 126.8095385
+  },
+  {
+    "address": "경기도 부천시 역곡3동 113",
+    "latitude": 37.4845154,
+    "longitude": 126.8105146
+  },
+  {
+    "address": "경기도 부천시 역곡3동 113 앞",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡3동 113-2",
+    "latitude": 37.48447673,
+    "longitude": 126.8111207
+  },
+  {
+    "address": "경기도 부천시 역곡3동 114-12",
+    "latitude": 37.4834391,
+    "longitude": 126.8113268
+  },
+  {
+    "address": "경기도 부천시 역곡3동 115-11",
+    "latitude": 37.48333937,
+    "longitude": 126.8120733
+  },
+  {
+    "address": "경기도 부천시 역곡3동 115-11",
+    "latitude": 37.48333937,
+    "longitude": 126.8120733
+  },
+  {
+    "address": "경기도 부천시 역곡3동 115-11(안쪽)",
+    "latitude": 37.48333937,
+    "longitude": 126.8120733
+  },
+  {
+    "address": "경기도 부천시 역곡3동 116-1 (건물옥상)",
+    "latitude": 37.4827374,
+    "longitude": 126.8120115
+  },
+  {
+    "address": "경기도 부천시 역곡3동 116-11",
+    "latitude": 37.48248145,
+    "longitude": 126.8119714
+  },
+  {
+    "address": "경기도 부천시 역곡3동 116-19",
+    "latitude": 37.48273449,
+    "longitude": 126.8124502
+  },
+  {
+    "address": "경기도 부천시 역곡3동 116-2",
+    "latitude": 37.48283139,
+    "longitude": 126.8121922
+  },
+  {
+    "address": "경기도 부천시 역곡3동 116-2",
+    "latitude": 37.48283139,
+    "longitude": 126.8121922
+  },
+  {
+    "address": "경기도 부천시 역곡3동 116-24",
+    "latitude": 37.48252208,
+    "longitude": 126.8125909
+  },
+  {
+    "address": "경기도 부천시 역곡3동 116-28",
+    "latitude": 37.48276399,
+    "longitude": 126.8128707
+  },
+  {
+    "address": "경기도 부천시 역곡3동 116-29 (건물옥상)",
+    "latitude": 37.482656,
+    "longitude": 126.8129479
+  },
+  {
+    "address": "경기도 부천시 역곡3동 116-33",
+    "latitude": 37.48305562,
+    "longitude": 126.8126802
+  },
+  {
+    "address": "경기도 부천시 역곡3동 116-7",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡3동 116-9",
+    "latitude": 37.482547,
+    "longitude": 126.8123964
+  },
+  {
+    "address": "경기도 부천시 역곡3동 116-9 앞",
+    "latitude": 37.482547,
+    "longitude": 126.8123964
+  },
+  {
+    "address": "경기도 부천시 역곡3동 117",
+    "latitude": 37.48194532,
+    "longitude": 126.8125155
+  },
+  {
+    "address": "경기도 부천시 역곡3동 117-3",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡3동 117-3",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡3동 117-4",
+    "latitude": 37.48237232,
+    "longitude": 126.8136089
+  },
+  {
+    "address": "경기도 부천시 역곡3동 117-9 전주",
+    "latitude": 37.48247956,
+    "longitude": 126.8130523
+  },
+  {
+    "address": "경기도 부천시 역곡3동 118",
+    "latitude": 37.4815491,
+    "longitude": 126.8126612
+  },
+  {
+    "address": "경기도 부천시 역곡3동 118-15",
+    "latitude": 37.48145595,
+    "longitude": 126.8130097
+  },
+  {
+    "address": "경기도 부천시 역곡3동 118-18",
+    "latitude": 37.48104835,
+    "longitude": 126.8127891
+  },
+  {
+    "address": "경기도 부천시 역곡3동 118-3",
+    "latitude": 37.4818131,
+    "longitude": 126.8132304
+  },
+  {
+    "address": "경기도 부천시 역곡3동 118-4",
+    "latitude": 37.4819178,
+    "longitude": 126.8133477
+  },
+  {
+    "address": "경기도 부천시 역곡3동 118-5",
+    "latitude": 37.4819866,
+    "longitude": 126.813551
+  },
+  {
+    "address": "경기도 부천시 역곡3동 118-6",
+    "latitude": 37.48208422,
+    "longitude": 126.8137498
+  },
+  {
+    "address": "경기도 부천시 역곡3동 119-12",
+    "latitude": 37.48115827,
+    "longitude": 126.8139285
+  },
+  {
+    "address": "경기도 부천시 역곡3동 119-15",
+    "latitude": 37.48102455,
+    "longitude": 126.8136981
+  },
+  {
+    "address": "경기도 부천시 역곡3동 119-19",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡3동 119-19",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡3동 119-20",
+    "latitude": 37.48069584,
+    "longitude": 126.8132241
+  },
+  {
+    "address": "경기도 부천시 역곡3동 119-20",
+    "latitude": 37.48069584,
+    "longitude": 126.8132241
+  },
+  {
+    "address": "경기도 부천시 역곡3동 119-20 (119-33앞)",
+    "latitude": 37.48069584,
+    "longitude": 126.8132241
+  },
+  {
+    "address": "경기도 부천시 역곡3동 119-24",
+    "latitude": 37.48082877,
+    "longitude": 126.812957
+  },
+  {
+    "address": "경기도 부천시 역곡3동 119-28",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡3동 119-34",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡3동 119-4",
+    "latitude": 37.48137389,
+    "longitude": 126.8135345
+  },
+  {
+    "address": "경기도 부천시 역곡3동 119-6",
+    "latitude": 37.48147174,
+    "longitude": 126.8138825
+  },
+  {
+    "address": "경기도 부천시 역곡3동 120-12(대성아파트 앞)",
+    "latitude": 37.48057825,
+    "longitude": 126.8140746
+  },
+  {
+    "address": "경기도 부천시 역곡3동 120-15",
+    "latitude": 37.48015237,
+    "longitude": 126.8136913
+  },
+  {
+    "address": "경기도 부천시 역곡3동 120-18",
+    "latitude": 37.47993957,
+    "longitude": 126.8135878
+  },
+  {
+    "address": "경기도 부천시 역곡3동 121-7",
+    "latitude": 37.48166202,
+    "longitude": 126.8157091
+  },
+  {
+    "address": "경기도 부천시 역곡3동 121-9",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡3동 122-13",
+    "latitude": 37.48195278,
+    "longitude": 126.8149621
+  },
+  {
+    "address": "경기도 부천시 역곡3동 122-2",
+    "latitude": 37.48216591,
+    "longitude": 126.8152782
+  },
+  {
+    "address": "경기도 부천시 역곡3동 122-21",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡3동 122-23",
+    "latitude": 37.48141516,
+    "longitude": 126.8145705
+  },
+  {
+    "address": "경기도 부천시 역곡3동 122-3",
+    "latitude": 37.4818564,
+    "longitude": 126.8155593
+  },
+  {
+    "address": "경기도 부천시 역곡3동 122-3(옥상)",
+    "latitude": 37.4818564,
+    "longitude": 126.8155593
+  },
+  {
+    "address": "경기도 부천시 역곡3동 122-6",
+    "latitude": 37.48176907,
+    "longitude": 126.8150259
+  },
+  {
+    "address": "경기도 부천시 역곡3동 123-14",
+    "latitude": 37.48196266,
+    "longitude": 126.8143697
+  },
+  {
+    "address": "경기도 부천시 역곡3동 123-20",
+    "latitude": 37.48209295,
+    "longitude": 126.8147176
+  },
+  {
+    "address": "경기도 부천시 역곡3동 123-25",
+    "latitude": 37.48226142,
+    "longitude": 126.8141338
+  },
+  {
+    "address": "경기도 부천시 역곡3동 123-4",
+    "latitude": 37.48241763,
+    "longitude": 126.8149203
+  },
+  {
+    "address": "경기도 부천시 역곡3동 124-1",
+    "latitude": 37.48287742,
+    "longitude": 126.8139468
+  },
+  {
+    "address": "경기도 부천시 역곡3동 125-11",
+    "latitude": 37.48303934,
+    "longitude": 126.8137836
+  },
+  {
+    "address": "경기도 부천시 역곡3동 125-3 (130-14 앞)",
+    "latitude": 37.48333534,
+    "longitude": 126.8140813
+  },
+  {
+    "address": "경기도 부천시 역곡3동 125-6",
+    "latitude": 37.48317655,
+    "longitude": 126.8139461
+  },
+  {
+    "address": "경기도 부천시 역곡3동 126-2",
+    "latitude": 37.48383227,
+    "longitude": 126.8138088
+  },
+  {
+    "address": "경기도 부천시 역곡3동 126-2 (2)",
+    "latitude": 37.48383227,
+    "longitude": 126.8138088
+  },
+  {
+    "address": "경기도 부천시 역곡3동 126-6",
+    "latitude": 37.48381696,
+    "longitude": 126.8132435
+  },
+  {
+    "address": "경기도 부천시 역곡3동 126-7",
+    "latitude": 37.48353937,
+    "longitude": 126.8131899
+  },
+  {
+    "address": "경기도 부천시 역곡3동 128-1",
+    "latitude": 37.48508481,
+    "longitude": 126.8127564
+  },
+  {
+    "address": "경기도 부천시 역곡3동 128-2 앞",
+    "latitude": 37.4853128,
+    "longitude": 126.8133483
+  },
+  {
+    "address": "경기도 부천시 역곡3동 128-2 앞",
+    "latitude": 37.4853128,
+    "longitude": 126.8133483
+  },
+  {
+    "address": "경기도 부천시 역곡3동 129-1",
+    "latitude": 37.48487459,
+    "longitude": 126.8142901
+  },
+  {
+    "address": "경기도 부천시 역곡3동 129-1",
+    "latitude": 37.48487459,
+    "longitude": 126.8142901
+  },
+  {
+    "address": "경기도 부천시 역곡3동 129-1",
+    "latitude": 37.48487459,
+    "longitude": 126.8142901
+  },
+  {
+    "address": "경기도 부천시 역곡3동 130-11",
+    "latitude": 37.48364599,
+    "longitude": 126.8145283
+  },
+  {
+    "address": "경기도 부천시 역곡3동 130-16",
+    "latitude": 37.48396668,
+    "longitude": 126.8144868
+  },
+  {
+    "address": "경기도 부천시 역곡3동 130-23",
+    "latitude": 37.48420101,
+    "longitude": 126.8145269
+  },
+  {
+    "address": "경기도 부천시 역곡3동 130-30",
+    "latitude": 37.4843458,
+    "longitude": 126.8149291
+  },
+  {
+    "address": "경기도 부천시 역곡3동 130-38",
+    "latitude": 37.48432844,
+    "longitude": 126.8153497
+  },
+  {
+    "address": "경기도 부천시 역곡3동 130-39",
+    "latitude": 37.48406489,
+    "longitude": 126.8150564
+  },
+  {
+    "address": "경기도 부천시 역곡3동 130-40",
+    "latitude": 37.48417312,
+    "longitude": 126.8151285
+  },
+  {
+    "address": "경기도 부천시 역곡3동 130-46",
+    "latitude": 37.48365082,
+    "longitude": 126.8153107
+  },
+  {
+    "address": "경기도 부천시 역곡3동 130-49",
+    "latitude": 37.48356828,
+    "longitude": 126.815537
+  },
+  {
+    "address": "경기도 부천시 역곡3동 130-50",
+    "latitude": 37.4834276,
+    "longitude": 126.8154605
+  },
+  {
+    "address": "경기도 부천시 역곡3동 130-53",
+    "latitude": 37.48335588,
+    "longitude": 126.8156868
+  },
+  {
+    "address": "경기도 부천시 역곡3동 130-67",
+    "latitude": 37.48353273,
+    "longitude": 126.8158492
+  },
+  {
+    "address": "경기도 부천시 역곡3동 130-69",
+    "latitude": 37.48386948,
+    "longitude": 126.8145504
+  },
+  {
+    "address": "경기도 부천시 역곡3동 130-72",
+    "latitude": 37.48352747,
+    "longitude": 126.8147909
+  },
+  {
+    "address": "경기도 부천시 역곡3동 130-74",
+    "latitude": 37.48328985,
+    "longitude": 126.8149453
+  },
+  {
+    "address": "경기도 부천시 역곡3동 130-76",
+    "latitude": 37.48300164,
+    "longitude": 126.8150183
+  },
+  {
+    "address": "경기도 부천시 역곡3동 130-98 (건물옥상)",
+    "latitude": 37.48419323,
+    "longitude": 126.8141606
+  },
+  {
+    "address": "경기도 부천시 역곡3동 157",
+    "latitude": 37.48265232,
+    "longitude": 126.8151956
+  },
+  {
+    "address": "경기도 부천시 역곡3동 157-1",
+    "latitude": 37.48291256,
+    "longitude": 126.8156743
+  },
+  {
+    "address": "경기도 부천시 역곡3동 157-14",
+    "latitude": 37.48249431,
+    "longitude": 126.8155532
+  },
+  {
+    "address": "경기도 부천시 역곡3동 157-22",
+    "latitude": 37.48278699,
+    "longitude": 126.8160364
+  },
+  {
+    "address": "경기도 부천시 역곡3동 157-26",
+    "latitude": 37.48273185,
+    "longitude": 126.8153492
+  },
+  {
+    "address": "경기도 부천시 역곡3동 157-3",
+    "latitude": 37.4830936,
+    "longitude": 126.8162121
+  },
+  {
+    "address": "경기도 부천시 역곡3동 157-5",
+    "latitude": 37.48274345,
+    "longitude": 126.8158511
+  },
+  {
+    "address": "경기도 부천시 역곡3동 159",
+    "latitude": 37.48185332,
+    "longitude": 126.815894
+  },
+  {
+    "address": "경기도 부천시 역곡3동 159-10",
+    "latitude": 37.48214695,
+    "longitude": 126.8169923
+  },
+  {
+    "address": "경기도 부천시 역곡3동 159-14",
+    "latitude": 37.48196908,
+    "longitude": 126.8161696
+  },
+  {
+    "address": "경기도 부천시 역곡3동 159-4",
+    "latitude": 37.48204136,
+    "longitude": 126.8163006
+  },
+  {
+    "address": "경기도 부천시 역곡3동 159-6",
+    "latitude": 37.48215698,
+    "longitude": 126.8164857
+  },
+  {
+    "address": "경기도 부천시 역곡3동 160-63",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡3동 161-18 (건물옥상)",
+    "latitude": 37.48221403,
+    "longitude": 126.8184212
+  },
+  {
+    "address": "경기도 부천시 역곡3동 161-7",
+    "latitude": 37.4819499,
+    "longitude": 126.817748
+  },
+  {
+    "address": "경기도 부천시 역곡3동 162",
+    "latitude": 37.48243171,
+    "longitude": 126.8170187
+  },
+  {
+    "address": "경기도 부천시 역곡3동 162-2",
+    "latitude": 37.48232016,
+    "longitude": 126.817132
+  },
+  {
+    "address": "경기도 부천시 역곡3동 162-3 앞",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡3동 163",
+    "latitude": 37.48289647,
+    "longitude": 126.8169135
+  },
+  {
+    "address": "경기도 부천시 역곡3동 163-2",
+    "latitude": 37.48289647,
+    "longitude": 126.8169135
+  },
+  {
+    "address": "경기도 부천시 역곡3동 163-2",
+    "latitude": 37.48289647,
+    "longitude": 126.8169135
+  },
+  {
+    "address": "경기도 부천시 역곡3동 163-3",
+    "latitude": 37.48318156,
+    "longitude": 126.8171571
+  },
+  {
+    "address": "경기도 부천시 역곡3동 165-1",
+    "latitude": 37.48289647,
+    "longitude": 126.8169135
+  },
+  {
+    "address": "경기도 부천시 역곡3동 165-20",
+    "latitude": 37.4838122,
+    "longitude": 126.8171148
+  },
+  {
+    "address": "경기도 부천시 역곡3동 165-3",
+    "latitude": 37.48363871,
+    "longitude": 126.8167941
+  },
+  {
+    "address": "경기도 부천시 역곡3동 166-16",
+    "latitude": 37.48369566,
+    "longitude": 126.8163327
+  },
+  {
+    "address": "경기도 부천시 역곡3동 167-1",
+    "latitude": 37.48503898,
+    "longitude": 126.8157008
+  },
+  {
+    "address": "경기도 부천시 역곡3동 167-3",
+    "latitude": 37.48502131,
+    "longitude": 126.8159224
+  },
+  {
+    "address": "경기도 부천시 역곡3동 167-7 (167-6 옆)",
+    "latitude": 37.48523063,
+    "longitude": 126.8161073
+  },
+  {
+    "address": "경기도 부천시 역곡3동 167-8 (건물옥상)",
+    "latitude": 37.48512981,
+    "longitude": 126.8161664
+  },
+  {
+    "address": "경기도 부천시 역곡3동 168-5",
+    "latitude": 37.48545713,
+    "longitude": 126.815754
+  },
+  {
+    "address": "경기도 부천시 역곡3동 169",
+    "latitude": 37.48572166,
+    "longitude": 126.8143694
+  },
+  {
+    "address": "경기도 부천시 역곡3동 169-1 앞",
+    "latitude": 37.48572166,
+    "longitude": 126.8143694
+  },
+  {
+    "address": "경기도 부천시 역곡3동 169-10",
+    "latitude": 37.48654216,
+    "longitude": 126.8158916
+  },
+  {
+    "address": "경기도 부천시 역곡3동 169-16",
+    "latitude": 37.48653206,
+    "longitude": 126.8163529
+  },
+  {
+    "address": "경기도 부천시 역곡3동 169-17",
+    "latitude": 37.48641644,
+    "longitude": 126.8161632
+  },
+  {
+    "address": "경기도 부천시 역곡3동 169-24 (169-11 옆)",
+    "latitude": 37.48666489,
+    "longitude": 126.8160179
+  },
+  {
+    "address": "경기도 부천시 역곡3동 169-25",
+    "latitude": 37.48617052,
+    "longitude": 126.8156211
+  },
+  {
+    "address": "경기도 부천시 역곡3동 169-25",
+    "latitude": 37.48617052,
+    "longitude": 126.8156211
+  },
+  {
+    "address": "경기도 부천시 역곡3동 169-3 앞",
+    "latitude": 37.48586292,
+    "longitude": 126.8148168
+  },
+  {
+    "address": "경기도 부천시 역곡3동 169-5",
+    "latitude": 37.48603273,
+    "longitude": 126.8150878
+  },
+  {
+    "address": "경기도 부천시 역곡3동 169-6 앞",
+    "latitude": 37.48615178,
+    "longitude": 126.8151598
+  },
+  {
+    "address": "경기도 부천시 역곡3동 175",
+    "latitude": 37.48531389,
+    "longitude": 126.8163423
+  },
+  {
+    "address": "경기도 부천시 역곡3동 175-1",
+    "latitude": 37.48529264,
+    "longitude": 126.8165866
+  },
+  {
+    "address": "경기도 부천시 역곡3동 175-3",
+    "latitude": 37.48566495,
+    "longitude": 126.8172957
+  },
+  {
+    "address": "경기도 부천시 역곡3동 176",
+    "latitude": 37.48477738,
+    "longitude": 126.8166602
+  },
+  {
+    "address": "경기도 부천시 역곡3동 176 옆",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡3동 176-1",
+    "latitude": 37.4847994,
+    "longitude": 126.8169179
+  },
+  {
+    "address": "경기도 부천시 역곡3동 176-10",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡3동 176-14",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡3동 176-2",
+    "latitude": 37.48498708,
+    "longitude": 126.8170894
+  },
+  {
+    "address": "경기도 부천시 역곡3동 177",
+    "latitude": 37.48517872,
+    "longitude": 126.8174959
+  },
+  {
+    "address": "경기도 부천시 역곡3동 177-1",
+    "latitude": 37.48526193,
+    "longitude": 126.8177038
+  },
+  {
+    "address": "경기도 부천시 역곡3동 177-10",
+    "latitude": 37.48455946,
+    "longitude": 126.817909
+  },
+  {
+    "address": "경기도 부천시 역곡3동 177-2",
+    "latitude": 37.48517872,
+    "longitude": 126.8174959
+  },
+  {
+    "address": "경기도 부천시 역곡3동 177-5",
+    "latitude": 37.48517872,
+    "longitude": 126.8174959
+  },
+  {
+    "address": "경기도 부천시 역곡3동 177-9",
+    "latitude": 37.4843429,
+    "longitude": 126.8177015
+  },
+  {
+    "address": "경기도 부천시 역곡3동 178-1",
+    "latitude": 37.48392423,
+    "longitude": 126.817309
+  },
+  {
+    "address": "경기도 부천시 역곡3동 178-17",
+    "latitude": 37.48316475,
+    "longitude": 126.817935
+  },
+  {
+    "address": "경기도 부천시 역곡3동 178-23",
+    "latitude": 37.4834527,
+    "longitude": 126.8176946
+  },
+  {
+    "address": "경기도 부천시 역곡3동 178-31",
+    "latitude": 37.48370837,
+    "longitude": 126.8175538
+  },
+  {
+    "address": "경기도 부천시 역곡3동 179",
+    "latitude": 37.48373124,
+    "longitude": 126.8183633
+  },
+  {
+    "address": "경기도 부천시 역곡3동 179-16",
+    "latitude": 37.48298546,
+    "longitude": 126.8185279
+  },
+  {
+    "address": "경기도 부천시 역곡3동 179-9",
+    "latitude": 37.48301361,
+    "longitude": 126.8180891
+  },
+  {
+    "address": "경기도 부천시 역곡3동 182-1",
+    "latitude": 37.48510205,
+    "longitude": 126.8192012
+  },
+  {
+    "address": "경기도 부천시 역곡3동 182-12 (건물옥상)",
+    "latitude": 37.48491848,
+    "longitude": 126.8193554
+  },
+  {
+    "address": "경기도 부천시 역곡3동 182-16",
+    "latitude": 37.48445711,
+    "longitude": 126.8193158
+  },
+  {
+    "address": "경기도 부천시 역곡3동 182-16",
+    "latitude": 37.48445711,
+    "longitude": 126.8193158
+  },
+  {
+    "address": "경기도 부천시 역곡3동 182-24",
+    "latitude": 37.48407487,
+    "longitude": 126.819181
+  },
+  {
+    "address": "경기도 부천시 역곡3동 183-9",
+    "latitude": 37.48462869,
+    "longitude": 126.8183928
+  },
+  {
+    "address": "경기도 부천시 역곡3동 184",
+    "latitude": 37.48595775,
+    "longitude": 126.8178604
+  },
+  {
+    "address": "경기도 부천시 역곡3동 184-10",
+    "latitude": 37.48545698,
+    "longitude": 126.8179837
+  },
+  {
+    "address": "경기도 부천시 역곡3동 184-15",
+    "latitude": 37.48563094,
+    "longitude": 126.8186074
+  },
+  {
+    "address": "경기도 부천시 역곡3동 184-24",
+    "latitude": 37.48559077,
+    "longitude": 126.8182683
+  },
+  {
+    "address": "경기도 부천시 역곡3동 184-27",
+    "latitude": 37.485843,
+    "longitude": 126.818236
+  },
+  {
+    "address": "경기도 부천시 역곡3동 184-3",
+    "latitude": 37.48614221,
+    "longitude": 126.8182805
+  },
+  {
+    "address": "경기도 부천시 역곡3동 184-31",
+    "latitude": 37.48505061,
+    "longitude": 126.8185591
+  },
+  {
+    "address": "경기도 부천시 역곡3동 184-38",
+    "latitude": 37.48616044,
+    "longitude": 126.8184207
+  },
+  {
+    "address": "경기도 부천시 역곡3동 184-47",
+    "latitude": 37.4850142,
+    "longitude": 126.8183195
+  },
+  {
+    "address": "경기도 부천시 역곡3동 184-47",
+    "latitude": 37.4850142,
+    "longitude": 126.8183195
+  },
+  {
+    "address": "경기도 부천시 역곡3동 185-19",
+    "latitude": 37.48587371,
+    "longitude": 126.8194571
+  },
+  {
+    "address": "경기도 부천시 역곡3동 187-5",
+    "latitude": 37.48631129,
+    "longitude": 126.8180811
+  },
+  {
+    "address": "경기도 부천시 역곡3동 187-5(170-5앞)",
+    "latitude": 37.48631129,
+    "longitude": 126.8180811
+  },
+  {
+    "address": "경기도 부천시 역곡3동 188-11",
+    "latitude": 37.48668047,
+    "longitude": 126.8167686
+  },
+  {
+    "address": "경기도 부천시 역곡3동 188-18",
+    "latitude": 37.48681076,
+    "longitude": 126.8171166
+  },
+  {
+    "address": "경기도 부천시 역곡3동 188-2",
+    "latitude": 37.48707718,
+    "longitude": 126.8169395
+  },
+  {
+    "address": "경기도 부천시 역곡3동 188-26",
+    "latitude": 37.48725808,
+    "longitude": 126.8173868
+  },
+  {
+    "address": "경기도 부천시 역곡3동 188-32",
+    "latitude": 37.48739213,
+    "longitude": 126.8178433
+  },
+  {
+    "address": "경기도 부천시 역곡3동 188-34",
+    "latitude": 37.48678491,
+    "longitude": 126.8167186
+  },
+  {
+    "address": "경기도 부천시 역곡3동 189",
+    "latitude": 37.48708013,
+    "longitude": 126.8165144
+  },
+  {
+    "address": "경기도 부천시 역곡3동 189-13",
+    "latitude": 37.48728258,
+    "longitude": 126.8169164
+  },
+  {
+    "address": "경기도 부천시 역곡3동 189-23",
+    "latitude": 37.48804785,
+    "longitude": 126.817706
+  },
+  {
+    "address": "경기도 부천시 역곡3동 189-3",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡3동 189-4",
+    "latitude": 37.48738376,
+    "longitude": 126.8170926
+  },
+  {
+    "address": "경기도 부천시 역곡3동 189-6",
+    "latitude": 37.48768679,
+    "longitude": 126.8172773
+  },
+  {
+    "address": "경기도 부천시 역곡3동 190",
+    "latitude": 37.48889283,
+    "longitude": 126.8187669
+  },
+  {
+    "address": "경기도 부천시 역곡3동 190-10",
+    "latitude": 37.48868395,
+    "longitude": 126.8188714
+  },
+  {
+    "address": "경기도 부천시 역곡3동 190-20",
+    "latitude": 37.48789412,
+    "longitude": 126.818516
+  },
+  {
+    "address": "경기도 부천시 역곡3동 190-22번지 앞",
+    "latitude": 37.48813578,
+    "longitude": 126.8186375
+  },
+  {
+    "address": "경기도 부천시 역곡3동 190-25",
+    "latitude": 37.488298,
+    "longitude": 126.8186598
+  },
+  {
+    "address": "경기도 부천시 역곡3동 190-25(옥상)",
+    "latitude": 37.488298,
+    "longitude": 126.8186598
+  },
+  {
+    "address": "경기도 부천시 역곡3동 190-47",
+    "latitude": 37.48871592,
+    "longitude": 126.8185638
+  },
+  {
+    "address": "경기도 부천시 역곡3동 190-60",
+    "latitude": 37.48797809,
+    "longitude": 126.8192168
+  },
+  {
+    "address": "경기도 부천시 역곡3동 200",
+    "latitude": 37.4887096,
+    "longitude": 126.8191427
+  },
+  {
+    "address": "경기도 부천시 역곡3동 200-1",
+    "latitude": 37.48846111,
+    "longitude": 126.8192702
+  },
+  {
+    "address": "경기도 부천시 역곡3동 200-2",
+    "latitude": 37.48876799,
+    "longitude": 126.819622
+  },
+  {
+    "address": "경기도 부천시 역곡3동 200-2",
+    "latitude": 37.48876799,
+    "longitude": 126.819622
+  },
+  {
+    "address": "경기도 부천시 역곡3동 200-5",
+    "latitude": 37.48873982,
+    "longitude": 126.8200517
+  },
+  {
+    "address": "경기도 부천시 역곡3동 201",
+    "latitude": 37.48902995,
+    "longitude": 126.8188796
+  },
+  {
+    "address": "경기도 부천시 역곡3동 201-6",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡3동 202",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡3동 202",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡3동 202-1",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡3동 202-2앞(철마길)",
+    "latitude": 37.49001984,
+    "longitude": 126.8204422
+  },
+  {
+    "address": "경기도 부천시 역곡3동 202-3앞(철마길)",
+    "latitude": 37.49035553,
+    "longitude": 126.8207851
+  },
+  {
+    "address": "경기도 부천시 역곡3동 202-5",
+    "latitude": 37.49001984,
+    "longitude": 126.8204422
+  },
+  {
+    "address": "경기도 부천시 역곡3동 202-5번지",
+    "latitude": 37.49001984,
+    "longitude": 126.8204422
+  },
+  {
+    "address": "경기도 부천시 역곡3동 202번지 (3)",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡3동 203",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡3동 203-1",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡3동 22-1",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡3동 22-1",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡3동 223-2",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡3동 25-2",
+    "latitude": 37.48126427,
+    "longitude": 126.8171889
+  },
+  {
+    "address": "경기도 부천시 역곡3동 50",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡3동 69-13앞(괴안회주로)",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡3동 80-5",
+    "latitude": 37.47804457,
+    "longitude": 126.8117704
+  },
+  {
+    "address": "경기도 부천시 역곡3동 82-1",
+    "latitude": 37.47830125,
+    "longitude": 126.8122713
+  },
+  {
+    "address": "경기도 부천시 역곡동 17-2",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡동 산23-1",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곡동 산39-1",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "address": "경기도 부천시 역곧3동 188-1",
+    "latitude": "",
+    "longitude": ""
+  }
+]
