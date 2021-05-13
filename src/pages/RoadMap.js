@@ -22,7 +22,7 @@ function RoadMap() {
   return (
     <>
       <Road>
-        <Link to={"Loading"}>
+        <Link to={"Roading"}>
           최단거리로드
           <br />
           17분

@@ -26,7 +26,7 @@ const ETA = styled.div`
   top: 1850px;
 `;
 
-function Loading() {
+function Roading() {
   return (
     <>
       <Shortest>최단거리 로드중</Shortest>
@@ -36,4 +36,4 @@ function Loading() {
   );
 }
 
-export default Loading;
+export default Roading;
