@@ -2,8 +2,6 @@
 import { Link } from "react-router-dom";
 import KakaoMap from "../components/KakaoMap.js";
 import styled from "styled-components";
-import Side from "../components/Side.js";
-import Bottom from "../components/Bottom.js";
 
 const Road = styled.div`
   position: absolute;
@@ -33,8 +31,6 @@ function RoadMap() {
         <br />
         21분
       </Road>
-      <Bottom />
-      <Side />
       <KakaoMap />
     </>
   );

@@ -1,6 +1,7 @@
 //최단거리로드
 /*global kakao*/
 import React, { useState, useEffect } from "react";
+import { Link } from "react-router-dom";
 import styled from "styled-components";
 
 import JsonData from "./bucheonLight.json";
@@ -18,6 +19,36 @@ const Loading = styled.img`
   transform: translateX(-50%) translateY(-50%);
   width: 700px;
   z-index: 10;
+`;
+
+const Side = styled.div`
+  position: absolute;
+  top: 0px;
+  left: 80px;
+  width: 80px;
+  z-index: 10;
+`;
+
+const Bottom = styled.div`
+  position: absolute;
+  top: 0px;
+  left: 20px;
+  width: 80px;
+  z-index: 10;
+  #me {
+    position: absolute;
+    height: 80px;
+    width: 80px;
+    margin-top: 1800px;
+    background-color: #ffffff;
+  }
+  #star {
+    position: absolute;
+    height: 80px;
+    width: 80px;
+    margin-top: 1700px;
+    background-color: #ffffff;
+  }
 `;
 
 function KakaoMap() {
@@ -84,6 +115,26 @@ function KakaoMap() {
   return (
     <>
       {isLoaded ? <Loading src={"/img/loading.png"} /> : ""}
+      <Side>
+        <center>
+          <div class="zoomcontrol">
+            <span onclick="zoomIn()">
+              <img src="img/plus.png" alt="확대" />
+            </span>
+            <span onclick="zoomOut()">
+              <img src="img/minus.png" alt="축소" />
+            </span>
+          </div>
+        </center>
+      </Side>
+      <Bottom>
+        <center>
+          <img id="me" src={"/img/me.png"} />
+          <Link to={"/Starts"}>
+            <img id="star" src="/img/star.png" />
+          </Link>
+        </center>
+      </Bottom>
       <MapContainer id="map" />
     </>
   );

@@ -258,50 +258,7 @@ a {
   top: 135px;
   height: 85px;
 }
-/* CSS: Side.js */
-.Side {
-  position: absolute;
-  top: 0px;
-  left: 80px;
-  width: 80px;
-  z-index: 10;
-}
-#plus {
-  position: absolute;
-  height: 80px;
-  width: 80px;
-  margin-left: 850px;
-  margin-top: 800px;
-}
-#minus {
-  position: absolute;
-  height: 80px;
-  width: 80px;
-  margin-left: 850px;
-  margin-top: 900px;
-}
-/* CSS: Bottom.js */
-.Bottom {
-  position: absolute;
-  top: 0px;
-  left: 20px;
-  width: 80px;
-  z-index: 10;
-}
-#me {
-  position: absolute;
-  height: 80px;
-  width: 80px;
-  margin-top: 1800px;
-  background-color: #ffffff;
-}
-#star {
-  position: absolute;
-  height: 80px;
-  width: 80px;
-  margin-top: 1700px;
-  background-color: #ffffff;
-}
+
 /* CSS: Twogg.js */
 #btnChange {
   margin-top: 20px;
