@@ -1,6 +1,4 @@
-
 // 즐겨찾기 경로
-import { Link } from "react-router-dom";
 
 function Starts() {
   const style1 = {
@@ -8,11 +6,9 @@ function Starts() {
     position: "absolution",
     fontSize: "80px",
     backgroundColor: "#7E95EF",
-    height:"90px",
+    height: "90px",
     padding: "40px",
     color: "white",
-   
-    
   };
   const style2 = {
     //위치첫번쨰줄
@@ -36,7 +32,6 @@ function Starts() {
     width: "80px",
     height: "80px",
     marginTop: "100px",
-  
   };
   const imgfile2 = {
     //x사진
@@ -53,7 +48,6 @@ function Starts() {
     height: "80px",
     marginLeft: "-240px",
     marginRight: "180px",
-    
   };
   const imgfile4 = {
     //downarrow 사진
@@ -61,19 +55,21 @@ function Starts() {
     width: "60px",
     height: "60px",
   };
-  
+
   return (
     <div className="Starts">
-      <div style={style1}><img src={"img/backarrow.png"} style={imgfile3}></img>즐겨찾기 목록</div>
+      <div style={style1}>
+        <img src={"img/backarrow.png"} style={imgfile3}></img>즐겨찾기 목록
+      </div>
 
       <div style={style2}> 경기도 부천시 소사구 범박동</div>
-      <div style={style3}><img src={"img/downarrow.png"} style={imgfile4}></img>서울특별시 구로구 항동</div>
+      <div style={style3}>
+        <img src={"img/downarrow.png"} style={imgfile4}></img>서울특별시 구로구
+        항동
+      </div>
 
       <img src={"img/rightarrow.png"} style={imgfile} />
       <img src={"img/x.png"} style={imgfile2} />
-      
-      
-      
     </div>
   );
 }

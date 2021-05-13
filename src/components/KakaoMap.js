@@ -11,12 +11,12 @@ const MapContainer = styled.div`
   height: 1920px;
 `;
 
-const Roading = styled.img`
+const Loading = styled.img`
   position: absolute;
   top: 960px;
   left: 540px;
   transform: translateX(-50%) translateY(-50%);
-  width: 200px;
+  width: 700px;
   z-index: 10;
 `;
 
@@ -83,7 +83,7 @@ function KakaoMap() {
 
   return (
     <>
-      {isLoaded ? <Roading src={"/img/roading.png"} /> : ""}
+      {isLoaded ? <Loading src={"/img/loading.png"} /> : ""}
       <MapContainer id="map" />
     </>
   );

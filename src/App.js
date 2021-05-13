@@ -10,7 +10,7 @@ import Arrivegg from "./pages/Arrivegg";
 import Startgg from "./pages/Startgg";
 import Twogg from "./pages/Twogg";
 import Find from "./pages/Find";
-import Roading from "./pages/Roading";
+import Loading from "./pages/Loading";
 
 function App() {
   return (
@@ -24,7 +24,7 @@ function App() {
           <Route path="/startgg" exact component={Startgg} />
           <Route path="/twogg" component={Twogg} />
           <Route path="/find" component={Find} />
-          <Route path="/Roading" component={Roading} />
+          <Route path="/loading" component={Loading} />
           <Route path="/" exact component={Main} />
         </Switch>
       </Router>
