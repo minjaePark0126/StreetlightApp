@@ -1,9 +1,7 @@
 //최단거리로드
 /*global kakao*/
-import React, { useState, useEffect } from "react";
+import React, { useEffect } from "react";
 import styled from "styled-components";
-
-import JsonData from "./bucheonLight.json";
 
 const MapContainer = styled.div`
   position: relative;
@@ -11,48 +9,37 @@ const MapContainer = styled.div`
   height: 1920px;
 `;
 
-const Roading = styled.img`
-  position: absolute;
-  top: 960px;
-  left: 540px;
-  transform: translateX(-50%) translateY(-50%);
-  width: 200px;
-  z-index: 10;
-`;
-
 function KakaoMap() {
-  // 로딩중
-  const [isLoaded, setIsLoaded] = useState(false);
-  // 가로등 목록
-  const [lights, setLights] = useState(JsonData);
-
   useEffect(() => {
-    //지도 코드
     const script = document.createElement("script");
     script.async = true;
     script.src =
       "http://dapi.kakao.com/v2/maps/sdk.js?appkey=a9cb6f1eaea0879aee7e0eaff3eb864b&autoload=false";
     document.head.appendChild(script);
-
     script.onload = () => {
       kakao.maps.load(() => {
         let container = document.getElementById("map"); // 지도를 표시할 div
         let options = {
-          center: new kakao.maps.LatLng(37.48353937, 126.8131899), //경기도 부천시 역곡3동 126-7
+          center: new kakao.maps.LatLng(37.47851974, 126.8114161), //경기도 부천시 역곡3동 100-12
           level: 1, // 지도의 확대 레벨
         };
         const map = new window.kakao.maps.Map(container, options); // 지도 생성
 
-        // 마커 표시
         // 마커를 표시할 위치와 title 객체 배열입니다
-        var positions = [];
-        positions = lights.map((item) => ({
-          title: `${item.address}`,
-          latlng: new kakao.maps.LatLng(item.latitude, item.longitude),
-        }));
-        console.log(positions);
-
-        // 확대 축소
+        var positions = [
+          {
+            title: "경기도 부천시 역곡3동 100-12",
+            latlng: new kakao.maps.LatLng(37.47851974, 126.8114161),
+          },
+          {
+            title: "경기도 부천시 역곡3동 100-15",
+            latlng: new kakao.maps.LatLng(37.47880049, 126.8111893),
+          },
+          {
+            title: "경기도 부천시 역곡3동 100-23",
+            latlng: new kakao.maps.LatLng(37.4791897, 126.8111747),
+          },
+        ];
         function zoomIn() {
           map.setLevel(map.getLevel() - 1);
         }
@@ -79,11 +66,10 @@ function KakaoMap() {
         }
       });
     };
-  }, [lights]);
+  });
 
   return (
     <>
-      {isLoaded ? <Roading src={"/img/roading.png"} /> : ""}
       <MapContainer id="map" />
     </>
   );

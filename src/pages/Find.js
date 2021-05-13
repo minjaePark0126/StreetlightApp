@@ -8,7 +8,7 @@ function Find() {
         <img id="back" src="/img/leftarrow.png" />
       </Link>
       <center>
-        <input className="Spacefind" type="text" placeholder="장소 검색" />
+        <button className="Spacefind">장소 검색</button>
 
         <div className="Rs">
           <img id="bean" src={"/img/bean.png"}></img>

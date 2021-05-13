@@ -76,15 +76,17 @@ a {
   display: block;
 }
 .Spacefind {
+  position: absolute;
+  margin-top: 60px;
+  margin-left: 200px;
+  border: solid 8px black;
   width: 800px;
   height: 110px;
-  position: absolute;
-  top: 55px;
-  left: 170px;
-  border: solid 8px black;
   background-color: white;
+  display: block;
   color: black;
   font-size: 50px;
+  text-align: left;
 }
 #bean {
   position: relative;
