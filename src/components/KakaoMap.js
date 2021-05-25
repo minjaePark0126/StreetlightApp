@@ -49,7 +49,8 @@ const Bottom = styled.div`
     margin-top: 1700px;
     background-color: #ffffff;
   }
-`;
+
+  `;
 
 function KakaoMap() {
   // 로딩중
@@ -74,6 +75,19 @@ function KakaoMap() {
         };
         const map = new window.kakao.maps.Map(container, options); // 지도 생성
 
+        
+        // 지도 확대 축소를 제어할 수 있는  줌 컨트롤을 생성합니다
+var zoomControl = new kakao.maps.ZoomControl();
+map.addControl(zoomControl, kakao.maps.ControlPosition.RIGHT);
+
+// 지도가 확대 또는 축소되면 마지막 파라미터로 넘어온 함수를 호출하도록 이벤트를 등록합니다
+kakao.maps.event.addListener(map, 'zoom_changed', function() {        
+    
+    // 지도의 현재 레벨을 얻어옵니다
+    var level = map.getLevel();
+    });
+
+    
         // 마커 표시
         // 마커를 표시할 위치와 title 객체 배열입니다
         var positions = [];
@@ -83,12 +97,16 @@ function KakaoMap() {
         }));
         console.log(positions);
 
+    
+
         // 확대 축소
         function zoomIn() {
-          map.setLevel(map.getLevel() - 1);
+         
+          map.setLevel(map.getLevel()- 1);
         }
         function zoomOut() {
-          map.setLevel(map.getLevel() + 1);
+          
+          map.setLevel(map.getLevel()+ 1);
         }
 
         let imageSrc = "img/yellowmarker.png";
@@ -123,7 +141,7 @@ function KakaoMap() {
             </span>
             <span onclick="zoomOut()">
               <img src="img/minus.png" alt="축소" />
-            </span>
+              </span>
           </div>
         </center>
       </Side>
