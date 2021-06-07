@@ -11,7 +11,7 @@ const BlueNav = styled.div`
   padding-top: 200px;
   margin: 0 auto;
   color: white;
-  font-size: 270px;
+  font-size: 210px;
   text-align: center;
 `;
 
@@ -40,7 +40,7 @@ function Main() {
       <Link to={"/Map"}>
         <BlueNav>
           안심
-          <Find>길찾기</Find>
+          <Find>지도</Find>
           <MapImg src={"/img/map.png"} alt="지도" />
           <LoadingImg src={"/img/loading.png"} alt="로딩이미지" />
         </BlueNav>

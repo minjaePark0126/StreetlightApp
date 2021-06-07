@@ -1,14 +1,59 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import styled from "styled-components";
 
 const HeaderContainer = styled.header`
   position: absolute;
-  top: 20px;
-  left: 50px;
   width: 1080px;
+  z-index: 10;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  div {
+    padding: 40px;
+    width: 100%;
+    height: 90px;
+    background: #157aff;
+    color: white;
+    font-size: 80px;
+  }
+`;
+
+const MapImg = styled.img`
+  position: absolute;
+  left: 920px;
+  top: 15px;
+  width: 120px;
   z-index: 10;
 `;
 
+const Back = styled.img`
+  position: absolute;
+  left: 35px;
+  top: 40px;
+  width: 80px;
+  z-index: 10;
+`;
+
+function Header() {
+  return (
+    <>
+      <HeaderContainer>
+        {/* <LocationSearch>장소 검색</LocationSearch>
+      <StreetFind>길찾기</StreetFind> */}
+        <div>안심 지도</div>
+      </HeaderContainer>
+      <Link to="/">
+        <Back src={"img/backarrow.png"} alt="뒤로가기" />
+      </Link>
+      <MapImg src={"/img/map.png"} alt="지도" />
+    </>
+  );
+}
+
+export default Header;
+
+/*
 const LocationSearch = styled.button`
   position: absolute;
   border: solid 8px black;
@@ -39,16 +84,4 @@ const StreetFind = styled.button`
   margin-left: 850px;
   cursor: pointer;
 `;
-
-function Header() {
-  return (
-    <HeaderContainer>
-      <center>
-        <LocationSearch>장소 검색</LocationSearch>
-        <StreetFind>길찾기</StreetFind>
-      </center>
-    </HeaderContainer>
-  );
-}
-
-export default Header;
+*/

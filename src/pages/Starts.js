@@ -6,7 +6,7 @@ function Starts() {
     //즐겨찾기 목록
     position: "absolution",
     fontSize: "80px",
-    backgroundColor: "#7E95EF",
+    backgroundColor: "#157aff",
     height: "90px",
     padding: "40px",
     color: "white",

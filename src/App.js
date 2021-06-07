@@ -6,6 +6,8 @@ import Popup from "./components/Popup";
 import Main from "./pages/Main";
 import Map from "./pages/Map";
 import Starts from "./pages/Starts";
+
+// 구현예정
 // import RoadMap from "./pages/RoadMap";
 // import Arrivegg from "./pages/Arrivegg";
 // import Startgg from "./pages/Startgg";
