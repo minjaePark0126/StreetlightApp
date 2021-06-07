@@ -2,6 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import "./App.css";
 // 페이지
+import Popup from "./components/Popup";
 import Main from "./pages/Main";
 import Map from "./pages/Map";
 import Starts from "./pages/Starts";
@@ -25,7 +26,8 @@ function App() {
           <Route path="/twogg" component={Twogg} />
           <Route path="/find" component={Find} />
           <Route path="/roading" component={Roading} />
-          <Route path="/" exact component={Main} />
+          <Route path="/main" exact component={Main} />
+          <Route path="/" exact component={Popup} />
         </Switch>
       </Router>
     </>

@@ -164,6 +164,7 @@ body {
     background: rgb(255, 255, 255);
     border: solid 1px black;
     position: relative;
+    overflow: hidden;
 }
 
 `;

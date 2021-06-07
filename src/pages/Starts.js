@@ -1,4 +1,5 @@
 // 즐겨찾기 경로
+import { Link } from "react-router-dom";
 
 function Starts() {
   const style1 = {
@@ -59,17 +60,20 @@ function Starts() {
   return (
     <div className="Starts">
       <div style={style1}>
-        <img src={"img/backarrow.png"} style={imgfile3}></img>즐겨찾기 목록
+        <Link to="Map">
+          <img src={"img/backarrow.png"} style={imgfile3} alt="뒤로가기" />
+        </Link>
+        즐겨찾기 목록
       </div>
 
       <div style={style2}> 경기도 부천시 소사구 범박동</div>
       <div style={style3}>
-        <img src={"img/downarrow.png"} style={imgfile4}></img>서울특별시 구로구
-        항동
+        <img src={"img/downarrow.png"} style={imgfile4} alt="" />
+        서울특별시 구로구 항동
       </div>
 
-      <img src={"img/rightarrow.png"} style={imgfile} />
-      <img src={"img/x.png"} style={imgfile2} />
+      <img src={"img/rightarrow.png"} style={imgfile} alt="오른쪽화살표" />
+      <img src={"img/x.png"} style={imgfile2} alt="" />
     </div>
   );
 }

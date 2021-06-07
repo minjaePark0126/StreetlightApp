@@ -10,7 +10,7 @@ function Arrivegg() {
         </Link>
 
         <div className="Rs">
-          <img id="bean" src={"/img/bean.png"}></img>
+          <img id="bean" src={"/img/bean.png"} alt="콩" />
         </div>
         <div className="Rsss">최근 검색</div>
         <div className="Rss"></div>

@@ -21,45 +21,7 @@
   padding: 25px 0;
   border: none;
 }
-/* CSS : Main.js */
-.App {
-  text-align: center;
-}
-.blue-nav {
-  background-color: #6bb2f1;
-  width: 1080px;
-  height: 1720px;
-  border: 1px solid black;
-}
-.blue-nav {
-  position: absolute;
-  padding-top: 200px;
-  margin: 0 auto;
-  color: white;
-  font-size: 270px;
-  text-align: center;
-}
-.find {
-  font-size: 210px;
-}
-#mapimg {
-  position: absolute;
-  height: 500px;
-  width: 500px;
-  top: 900px;
-  left: 300px;
-}
-#loading {
-  position: absolute;
-  height: 200px;
-  bottom: 150px;
-  left: 440px;
-}
 
-a {
-  color: inherit;
-  text-decoration: none;
-}
 /* CSS: Find */
 .Find {
   position: absolute;
@@ -333,4 +295,3 @@ a {
   background-color: rgb(241, 241, 241);
   border: solid 2px black;
 }
-

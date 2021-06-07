@@ -49,8 +49,7 @@ const Bottom = styled.div`
     margin-top: 1700px;
     background-color: #ffffff;
   }
-
-  `;
+`;
 
 function KakaoMap() {
   // 로딩중
@@ -75,19 +74,16 @@ function KakaoMap() {
         };
         const map = new window.kakao.maps.Map(container, options); // 지도 생성
 
-        
         // 지도 확대 축소를 제어할 수 있는  줌 컨트롤을 생성합니다
-var zoomControl = new kakao.maps.ZoomControl();
-map.addControl(zoomControl, kakao.maps.ControlPosition.RIGHT);
+        var zoomControl = new kakao.maps.ZoomControl();
+        map.addControl(zoomControl, kakao.maps.ControlPosition.RIGHT);
 
-// 지도가 확대 또는 축소되면 마지막 파라미터로 넘어온 함수를 호출하도록 이벤트를 등록합니다
-kakao.maps.event.addListener(map, 'zoom_changed', function() {        
-    
-    // 지도의 현재 레벨을 얻어옵니다
-    var level = map.getLevel();
-    });
+        // 지도가 확대 또는 축소되면 마지막 파라미터로 넘어온 함수를 호출하도록 이벤트를 등록합니다
+        kakao.maps.event.addListener(map, "zoom_changed", function () {
+          // 지도의 현재 레벨을 얻어옵니다
+          var level = map.getLevel();
+        });
 
-    
         // 마커 표시
         // 마커를 표시할 위치와 title 객체 배열입니다
         var positions = [];
@@ -97,16 +93,12 @@ kakao.maps.event.addListener(map, 'zoom_changed', function() {
         }));
         console.log(positions);
 
-    
-
         // 확대 축소
         function zoomIn() {
-         
-          map.setLevel(map.getLevel()- 1);
+          map.setLevel(map.getLevel() - 1);
         }
         function zoomOut() {
-          
-          map.setLevel(map.getLevel()+ 1);
+          map.setLevel(map.getLevel() + 1);
         }
 
         let imageSrc = "img/yellowmarker.png";
@@ -119,7 +111,7 @@ kakao.maps.event.addListener(map, 'zoom_changed', function() {
           var markerImage = new kakao.maps.MarkerImage(imageSrc, imageSize);
 
           // 마커를 생성
-          var marker = new kakao.maps.Marker({
+          new kakao.maps.Marker({
             map: map, // 마커를 표시할 지도
             position: positions[i].latlng, // 마커를 표시할 위치
             title: positions[i].title, // 마커의 타이틀, 마커에 마우스를 올리면 타이틀이 표시됩니다
@@ -141,16 +133,16 @@ kakao.maps.event.addListener(map, 'zoom_changed', function() {
             </span>
             <span onclick="zoomOut()">
               <img src="img/minus.png" alt="축소" />
-              </span>
+            </span>
           </div>
         </center>
       </Side>
       <Bottom>
         <center>
-          <img id="me" src={"/img/me.png"} />
           <Link to={"/Starts"}>
-            <img id="star" src="/img/star.png" />
+            <img id="star" src="/img/star.png" alt="즐겨찾기" />
           </Link>
+          <img id="me" src={"/img/me.png"} alt="현재위치" />
         </center>
       </Bottom>
       <MapContainer id="map" />
