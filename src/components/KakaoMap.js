@@ -29,6 +29,28 @@ const Side = styled.div`
   z-index: 10;
 `;
 
+const ZoomControl = styled.div`
+  position: absolute;
+  top: 950px;
+  width: 100px;
+  height: 200px;
+  z-index: 1;
+  background-color: #fff;
+  left: 860px;
+  div {
+    display: block;
+    height: 100px;
+    text-align: center;
+    cursor: pointer;
+  }
+  img {
+    width: 60px;
+    height: 60px;
+    padding: 25px 0;
+    border: none;
+  }
+`;
+
 const Bottom = styled.div`
   position: absolute;
   top: 0px;
@@ -56,6 +78,8 @@ function KakaoMap() {
   const [isLoaded, setIsLoaded] = useState(false);
   // 가로등 목록
   const [lights, setLights] = useState(JsonData);
+  // 지도 정보
+  const [_map, setMap] = useState();
 
   useEffect(() => {
     //지도 코드
@@ -74,15 +98,15 @@ function KakaoMap() {
         };
         const map = new window.kakao.maps.Map(container, options); // 지도 생성
 
-        // 지도 확대 축소를 제어할 수 있는  줌 컨트롤을 생성합니다
-        var zoomControl = new kakao.maps.ZoomControl();
-        map.addControl(zoomControl, kakao.maps.ControlPosition.RIGHT);
+        // // 지도 확대 축소를 제어할 수 있는  줌 컨트롤을 생성합니다
+        // var zoomControl = new kakao.maps.ZoomControl();
+        // map.addControl(zoomControl, kakao.maps.ControlPosition.RIGHT);
 
-        // 지도가 확대 또는 축소되면 마지막 파라미터로 넘어온 함수를 호출하도록 이벤트를 등록합니다
-        kakao.maps.event.addListener(map, "zoom_changed", function () {
-          // 지도의 현재 레벨을 얻어옵니다
-          var level = map.getLevel();
-        });
+        // // 지도가 확대 또는 축소되면 마지막 파라미터로 넘어온 함수를 호출하도록 이벤트를 등록합니다
+        // kakao.maps.event.addListener(map, "zoom_changed", function () {
+        //   // 지도의 현재 레벨을 얻어옵니다
+        //   var level = map.getLevel();
+        // });
 
         // 마커 표시
         // 마커를 표시할 위치와 title 객체 배열입니다
@@ -92,14 +116,6 @@ function KakaoMap() {
           latlng: new kakao.maps.LatLng(item.latitude, item.longitude),
         }));
         console.log(positions);
-
-        // 확대 축소
-        function zoomIn() {
-          map.setLevel(map.getLevel() - 1);
-        }
-        function zoomOut() {
-          map.setLevel(map.getLevel() + 1);
-        }
 
         let imageSrc = "img/yellowmarker.png";
 
@@ -118,23 +134,34 @@ function KakaoMap() {
             image: markerImage, // 마커 이미지
           });
         }
+        // useEffect 밖으로 map 정보를 가져오기 위해 useState로 함수를 만듦
+        setMap(map);
       });
     };
   }, [lights]);
+
+  // 확대 축소
+  // useState로 map정보를 가져와서 지도 줌인아웃 기능을 추가함
+  const zoomIn = () => {
+    _map.setLevel(_map.getLevel() - 1);
+  };
+  const zoomOut = () => {
+    _map.setLevel(_map.getLevel() + 1);
+  };
 
   return (
     <>
       {isLoaded ? <Loading src={"/img/loading.png"} /> : ""}
       <Side>
         <center>
-          <div class="zoomcontrol">
-            <span onclick="zoomIn()">
+          <ZoomControl>
+            <div onClick={zoomIn}>
               <img src="img/plus.png" alt="확대" />
-            </span>
-            <span onclick="zoomOut()">
+            </div>
+            <div onClick={zoomOut}>
               <img src="img/minus.png" alt="축소" />
-            </span>
-          </div>
+            </div>
+          </ZoomControl>
         </center>
       </Side>
       <Bottom>
@@ -142,7 +169,7 @@ function KakaoMap() {
           <Link to={"/Starts"}>
             <img id="star" src="/img/star.png" alt="즐겨찾기" />
           </Link>
-          <img id="me" src={"/img/me.png"} alt="현재위치" />
+          <img id="me" src="/img/me.png" alt="현재위치" />
         </center>
       </Bottom>
       <MapContainer id="map" />

@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import styled from "styled-components";
 
 const HeaderContainer = styled.header`
@@ -45,12 +44,8 @@ function Header() {
   return (
     <HeaderContainer>
       <center>
-        <Link to={"/Find"}>
-          <LocationSearch>장소 검색</LocationSearch>
-        </Link>
-        <Link to={"/Twogg"}>
-          <StreetFind>길찾기</StreetFind>
-        </Link>
+        <LocationSearch>장소 검색</LocationSearch>
+        <StreetFind>길찾기</StreetFind>
       </center>
     </HeaderContainer>
   );

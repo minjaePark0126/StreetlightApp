@@ -1,27 +1,3 @@
-/* CSS : Side.js */
-.zoomcontrol {
-  position: absolute;
-  top: 950px;
-  width: 100px;
-  height: 200px;
-  z-index: 1;
-  background-color: #ffffff;
-  left: 860px;
-}
-.zoomcontrol span {
-  display: block;
-  width: 100px;
-  height: 100px;
-  text-align: center;
-  cursor: pointer;
-}
-.zoomcontrol span img {
-  width: 60px;
-  height: 60px;
-  padding: 25px 0;
-  border: none;
-}
-
 /* CSS: Find */
 .Find {
   position: absolute;
