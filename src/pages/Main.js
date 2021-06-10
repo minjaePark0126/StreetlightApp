@@ -21,10 +21,9 @@ const Find = styled.div`
 
 const MapImg = styled.img`
   position: absolute;
-  height: 500px;
-  width: 500px;
-  top: 900px;
-  left: 300px;
+  width: 750px;
+  top: 820px;
+  left: 160px;
 `;
 
 const LoadingImg = styled.img`
@@ -37,7 +36,7 @@ const LoadingImg = styled.img`
 function Main() {
   return (
     <>
-      <Link to={"/Map"}>
+      <Link to={"/Popup2"}>
         <BlueNav>
           안심
           <Find>지도</Find>

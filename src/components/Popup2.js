@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import styled from "styled-components";
 
-import Main from "../pages/Main.js";
+import Map from "../pages/Map.js";
 
 const Modal = styled.div`
   position: fixed;
@@ -37,13 +37,16 @@ const Modal = styled.div`
       margin: 30px 0 20px 0;
       font-size: 40px;
     }
+    span{
+      font-size: 40px;
+      font-weight: bold;
+      color: blue;
+      display: block;
+      margin: -10px 0 30px 0; 
+    }
     p{
       margin-bottom: 50px;
       font-size: 32px;
-      span{
-        font-weight: bold;
-        color: blue;
-      }
     }
     button{
       width: 230px;
@@ -62,16 +65,15 @@ function Popup() {
         <div className="modal_overaly"></div>
         <div className="modal_content">
           <img src="/img/information.png" alt="안내" />
-          <h1>이 웹페이지는 모바일에 최적화되어 있습니다.</h1>
-          <p>
-            PC화면에선 확대/축소 비율을 <span>33%</span>로 맞춰주시길 바랍니다.
-          </p>
-          <Link to="/Main">
+          <h1>서비스 가능 지역</h1>
+          <span>경기도 부천시 역곡동</span>
+          <p>점차 지역을 늘려갈 예정이니 많은 기대 부탁드립니다^^</p>
+          <Link to={"/Map"}>
             <button>확인</button>
           </Link>
         </div>
       </Modal>
-      <Main></Main>
+      <Map></Map>
     </>
   );
 }

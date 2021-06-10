@@ -21,9 +21,9 @@ const HeaderContainer = styled.header`
 
 const MapImg = styled.img`
   position: absolute;
-  left: 920px;
+  left: 910px;
   top: 15px;
-  width: 120px;
+  width: 150px;
   z-index: 10;
 `;
 

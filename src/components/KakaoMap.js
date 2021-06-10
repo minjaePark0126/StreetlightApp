@@ -111,7 +111,7 @@ function KakaoMap() {
 
         for (var i = 0; i < positions.length; i++) {
           // 마커 이미지의 이미지 크기
-          var imageSize = new kakao.maps.Size(80, 80);
+          var imageSize = new kakao.maps.Size(60);
 
           // 마커 이미지를 생성
           var markerImage = new kakao.maps.MarkerImage(imageSrc, imageSize);
@@ -159,7 +159,9 @@ function KakaoMap() {
           <Link to={"/Starts"}>
             <img id="star" src="/img/star.png" alt="즐겨찾기" />
           </Link>
-          <img id="me" src="/img/me.png" alt="현재위치" />
+          <div>
+            <img id="me" src="/img/me.png" alt="현재위치" />
+          </div>
         </center>
       </Bottom>
       <MapContainer id="map" />

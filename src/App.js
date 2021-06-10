@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import "./App.css";
 // 페이지
 import Popup from "./components/Popup";
+import Popup2 from "./components/Popup2";
 import Main from "./pages/Main";
 import Map from "./pages/Map";
 import Starts from "./pages/Starts";
@@ -20,6 +21,7 @@ function App() {
     <>
       <Router>
         <Switch>
+          <Route path="/popup2" exact component={Popup2} />
           <Route path="/map" component={Map} />
           <Route path="/starts" component={Starts} />
           <Route path="/main" exact component={Main} />
