@@ -1,0 +1,273 @@
+/* CSS: Find */
+.Find {
+  position: absolute;
+  top: 0px;
+  width: 1080px;
+  z-index: 10;
+}
+#back {
+  position: absolute;
+  top: 74px;
+  margin-left: 50px;
+  width: 80px;
+  left: 10px;
+  background-color: #ffffff;
+  display: block;
+}
+.Spacefind {
+  width: 800px;
+  height: 110px;
+  position: absolute;
+  top: 55px;
+  left: 170px;
+  border: solid 8px black;
+  background-color: white;
+  color: black;
+  font-size: 50px;
+}
+#bean {
+  position: relative;
+  bottom: 0;
+  right: 370px;
+}
+.Rs {
+  position: absolute;
+  margin-top: 250px;
+  width: 1016px;
+  height: 1140px;
+  background-color: rgb(241, 241, 241);
+  border: solid 2px black;
+}
+.Rs {
+  padding-left: 60px;
+  padding-top: 60px;
+}
+.Rsss {
+  position: absolute;
+  margin-top: 330px;
+  margin-left: 93px;
+  color: #ffffff;
+  font-size: 50px;
+  text-align: left;
+}
+.Rss {
+  position: absolute;
+  margin-top: 400px;
+  width: 1076px;
+  height: 1050px;
+  background-color: rgb(241, 241, 241);
+  border: solid 2px black;
+}
+
+/* CSS: Startgg */
+.Startgg {
+  position: absolute;
+  top: 0px;
+  width: 1080px;
+  z-index: 10;
+}
+.Startfind {
+  position: absolute;
+  margin-top: 60px;
+  margin-left: 60px;
+  border: solid 8px black;
+  width: 950px;
+  height: 90px;
+  background-color: white;
+  display: block;
+  color: black;
+  font-size: 50px;
+  text-align: left;
+}
+.Rs {
+  position: absolute;
+  margin-top: 250px;
+  width: 1016px;
+  height: 1140px;
+  background-color: rgb(241, 241, 241);
+  border: solid 2px black;
+}
+.Rs {
+  padding-left: 60px;
+  padding-top: 60px;
+}
+.Rsss {
+  position: absolute;
+  margin-top: 330px;
+  margin-left: 93px;
+  color: #ffffff;
+  font-size: 50px;
+  text-align: left;
+}
+.Rss {
+  position: absolute;
+  margin-top: 400px;
+  width: 1076px;
+  height: 1050px;
+  background-color: rgb(241, 241, 241);
+  border: solid 2px black;
+}
+/* CSS: Arrivegg */
+.Arrivegg {
+  position: absolute;
+  top: 0px;
+  width: 1080px;
+  z-index: 10;
+}
+.Arrivefind {
+  position: absolute;
+  margin-top: 60px;
+  margin-left: 60px;
+  border: solid 8px black;
+  width: 950px;
+  height: 90px;
+  background-color: white;
+  display: block;
+  color: black;
+  font-size: 50px;
+  text-align: left;
+}
+.Rs {
+  position: absolute;
+  margin-top: 250px;
+  width: 1016px;
+  height: 1140px;
+  background-color: rgb(241, 241, 241);
+  border: solid 2px black;
+}
+.Rs {
+  padding-left: 60px;
+  padding-top: 60px;
+}
+.Rsss {
+  position: absolute;
+  margin-top: 330px;
+  margin-left: 93px;
+  color: #ffffff;
+  font-size: 50px;
+  text-align: left;
+}
+.Rss {
+  position: absolute;
+  margin-top: 400px;
+  width: 1076px;
+  height: 1050px;
+  background-color: rgb(241, 241, 241);
+  border: solid 2px black;
+}
+/* CSS: Header */
+.AP {
+  background-color: lightgray;
+  float: left;
+  width: 900px;
+  color: black;
+  font-size: 50px;
+  font-weight: 200px;
+  margin-top: 30px;
+  text-align: left;
+}
+
+.AP4 {
+  width: 1000px;
+  height: 1000px;
+  top: 200px;
+}
+.Exit {
+  position: relative;
+  margin-left: 510px;
+  margin-top: 55px;
+  height: 50px;
+}
+.Home {
+  position: absolute;
+  right: 70px;
+  top: 10px;
+  height: 100px;
+}
+.Search {
+  position: relative;
+  right: -15px;
+  top: 20px;
+  height: 85px;
+}
+.Share {
+  position: absolute;
+  right: 75px;
+  top: 135px;
+  height: 85px;
+}
+
+/* CSS: Twogg.js */
+#btnChange {
+  margin-top: 20px;
+  position: absolute;
+  left: 25px;
+  width: 100px;
+  height: 130px;
+}
+.Departure {
+  margin-top: 50px;
+  border: solid 8px black;
+  border-color: black;
+  width: 800px;
+  height: 80px;
+  background-color: white;
+  display: block;
+  color: black;
+  font-size: 50px;
+  text-align: left;
+}
+
+#DepExit {
+  position: absolute;
+  margin-left: 445px;
+  top: 70px;
+  height: 50px;
+}
+
+.Arrival {
+  border: solid 8px black;
+  border-color: black;
+  width: 800px;
+  height: 80px;
+  background-color: white;
+  display: block;
+  color: black;
+  font-size: 50px;
+  text-align: left;
+}
+
+#btnFind {
+  position: absolute;
+  right: 30px;
+  top: 155px;
+  height: 70px;
+}
+.Rs2 {
+  position: absolute;
+  margin-top: 50px;
+  width: 1016px;
+  height: 1140px;
+  background-color: rgb(241, 241, 241);
+  border: solid 2px black;
+}
+.Rs2 {
+  padding-left: 60px;
+  padding-top: 60px;
+}
+.Rsss2 {
+  position: absolute;
+  margin-top: 130px;
+  margin-left: 93px;
+  color: #ffffff;
+  font-size: 50px;
+  text-align: left;
+}
+.Rss2 {
+  position: absolute;
+  margin-top: 200px;
+  width: 1076px;
+  height: 1050px;
+  background-color: rgb(241, 241, 241);
+  border: solid 2px black;
+}
